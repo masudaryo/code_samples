@@ -1,0 +1,663 @@
+[
+    {
+        "id": 1,
+        "name": "normal",
+        "damage_relations": {
+            "no_damage_to": [
+                "ghost"
+            ],
+            "half_damage_to": [
+                "rock",
+                "steel"
+            ],
+            "double_damage_to": [],
+            "no_damage_from": [
+                "ghost"
+            ],
+            "half_damage_from": [],
+            "double_damage_from": [
+                "fighting"
+            ]
+        },
+        "jp_name": {
+            "name": "ノーマル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 2,
+        "name": "fighting",
+        "damage_relations": {
+            "no_damage_to": [
+                "ghost"
+            ],
+            "half_damage_to": [
+                "flying",
+                "poison",
+                "bug",
+                "psychic",
+                "fairy"
+            ],
+            "double_damage_to": [
+                "normal",
+                "rock",
+                "steel",
+                "ice",
+                "dark"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "rock",
+                "bug",
+                "dark"
+            ],
+            "double_damage_from": [
+                "flying",
+                "psychic",
+                "fairy"
+            ]
+        },
+        "jp_name": {
+            "name": "かくとう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 3,
+        "name": "flying",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "rock",
+                "steel",
+                "electric"
+            ],
+            "double_damage_to": [
+                "fighting",
+                "bug",
+                "grass"
+            ],
+            "no_damage_from": [
+                "ground"
+            ],
+            "half_damage_from": [
+                "fighting",
+                "bug",
+                "grass"
+            ],
+            "double_damage_from": [
+                "rock",
+                "electric",
+                "ice"
+            ]
+        },
+        "jp_name": {
+            "name": "ひこう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 4,
+        "name": "poison",
+        "damage_relations": {
+            "no_damage_to": [
+                "steel"
+            ],
+            "half_damage_to": [
+                "poison",
+                "ground",
+                "rock",
+                "ghost"
+            ],
+            "double_damage_to": [
+                "grass",
+                "fairy"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "fighting",
+                "poison",
+                "bug",
+                "grass",
+                "fairy"
+            ],
+            "double_damage_from": [
+                "ground",
+                "psychic"
+            ]
+        },
+        "jp_name": {
+            "name": "どく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 5,
+        "name": "ground",
+        "damage_relations": {
+            "no_damage_to": [
+                "flying"
+            ],
+            "half_damage_to": [
+                "bug",
+                "grass"
+            ],
+            "double_damage_to": [
+                "poison",
+                "rock",
+                "steel",
+                "fire",
+                "electric"
+            ],
+            "no_damage_from": [
+                "electric"
+            ],
+            "half_damage_from": [
+                "poison",
+                "rock"
+            ],
+            "double_damage_from": [
+                "water",
+                "grass",
+                "ice"
+            ]
+        },
+        "jp_name": {
+            "name": "じめん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 6,
+        "name": "rock",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "fighting",
+                "ground",
+                "steel"
+            ],
+            "double_damage_to": [
+                "flying",
+                "bug",
+                "fire",
+                "ice"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "normal",
+                "flying",
+                "poison",
+                "fire"
+            ],
+            "double_damage_from": [
+                "fighting",
+                "ground",
+                "steel",
+                "water",
+                "grass"
+            ]
+        },
+        "jp_name": {
+            "name": "いわ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 7,
+        "name": "bug",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "fighting",
+                "flying",
+                "poison",
+                "ghost",
+                "steel",
+                "fire",
+                "fairy"
+            ],
+            "double_damage_to": [
+                "grass",
+                "psychic",
+                "dark"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "fighting",
+                "ground",
+                "grass"
+            ],
+            "double_damage_from": [
+                "flying",
+                "rock",
+                "fire"
+            ]
+        },
+        "jp_name": {
+            "name": "むし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 8,
+        "name": "ghost",
+        "damage_relations": {
+            "no_damage_to": [
+                "normal"
+            ],
+            "half_damage_to": [
+                "dark"
+            ],
+            "double_damage_to": [
+                "ghost",
+                "psychic"
+            ],
+            "no_damage_from": [
+                "normal",
+                "fighting"
+            ],
+            "half_damage_from": [
+                "poison",
+                "bug"
+            ],
+            "double_damage_from": [
+                "ghost",
+                "dark"
+            ]
+        },
+        "jp_name": {
+            "name": "ゴースト",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 9,
+        "name": "steel",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "steel",
+                "fire",
+                "water",
+                "electric"
+            ],
+            "double_damage_to": [
+                "rock",
+                "ice",
+                "fairy"
+            ],
+            "no_damage_from": [
+                "poison"
+            ],
+            "half_damage_from": [
+                "normal",
+                "flying",
+                "rock",
+                "bug",
+                "steel",
+                "grass",
+                "psychic",
+                "ice",
+                "dragon",
+                "fairy"
+            ],
+            "double_damage_from": [
+                "fighting",
+                "ground",
+                "fire"
+            ]
+        },
+        "jp_name": {
+            "name": "はがね",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 10,
+        "name": "fire",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "rock",
+                "fire",
+                "water",
+                "dragon"
+            ],
+            "double_damage_to": [
+                "bug",
+                "steel",
+                "grass",
+                "ice"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "bug",
+                "steel",
+                "fire",
+                "grass",
+                "ice",
+                "fairy"
+            ],
+            "double_damage_from": [
+                "ground",
+                "rock",
+                "water"
+            ]
+        },
+        "jp_name": {
+            "name": "ほのお",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 11,
+        "name": "water",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "water",
+                "grass",
+                "dragon"
+            ],
+            "double_damage_to": [
+                "ground",
+                "rock",
+                "fire"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "steel",
+                "fire",
+                "water",
+                "ice"
+            ],
+            "double_damage_from": [
+                "grass",
+                "electric"
+            ]
+        },
+        "jp_name": {
+            "name": "みず",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 12,
+        "name": "grass",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "flying",
+                "poison",
+                "bug",
+                "steel",
+                "fire",
+                "grass",
+                "dragon"
+            ],
+            "double_damage_to": [
+                "ground",
+                "rock",
+                "water"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "ground",
+                "water",
+                "grass",
+                "electric"
+            ],
+            "double_damage_from": [
+                "flying",
+                "poison",
+                "bug",
+                "fire",
+                "ice"
+            ]
+        },
+        "jp_name": {
+            "name": "くさ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 13,
+        "name": "electric",
+        "damage_relations": {
+            "no_damage_to": [
+                "ground"
+            ],
+            "half_damage_to": [
+                "grass",
+                "electric",
+                "dragon"
+            ],
+            "double_damage_to": [
+                "flying",
+                "water"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "flying",
+                "steel",
+                "electric"
+            ],
+            "double_damage_from": [
+                "ground"
+            ]
+        },
+        "jp_name": {
+            "name": "でんき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 14,
+        "name": "psychic",
+        "damage_relations": {
+            "no_damage_to": [
+                "dark"
+            ],
+            "half_damage_to": [
+                "steel",
+                "psychic"
+            ],
+            "double_damage_to": [
+                "fighting",
+                "poison"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "fighting",
+                "psychic"
+            ],
+            "double_damage_from": [
+                "bug",
+                "ghost",
+                "dark"
+            ]
+        },
+        "jp_name": {
+            "name": "エスパー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 15,
+        "name": "ice",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "steel",
+                "fire",
+                "water",
+                "ice"
+            ],
+            "double_damage_to": [
+                "flying",
+                "ground",
+                "grass",
+                "dragon"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "ice"
+            ],
+            "double_damage_from": [
+                "fighting",
+                "rock",
+                "steel",
+                "fire"
+            ]
+        },
+        "jp_name": {
+            "name": "こおり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 16,
+        "name": "dragon",
+        "damage_relations": {
+            "no_damage_to": [
+                "fairy"
+            ],
+            "half_damage_to": [
+                "steel"
+            ],
+            "double_damage_to": [
+                "dragon"
+            ],
+            "no_damage_from": [],
+            "half_damage_from": [
+                "fire",
+                "water",
+                "grass",
+                "electric"
+            ],
+            "double_damage_from": [
+                "ice",
+                "dragon",
+                "fairy"
+            ]
+        },
+        "jp_name": {
+            "name": "ドラゴン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 17,
+        "name": "dark",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "fighting",
+                "dark",
+                "fairy"
+            ],
+            "double_damage_to": [
+                "ghost",
+                "psychic"
+            ],
+            "no_damage_from": [
+                "psychic"
+            ],
+            "half_damage_from": [
+                "ghost",
+                "dark"
+            ],
+            "double_damage_from": [
+                "fighting",
+                "bug",
+                "fairy"
+            ]
+        },
+        "jp_name": {
+            "name": "あく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 18,
+        "name": "fairy",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [
+                "poison",
+                "steel",
+                "fire"
+            ],
+            "double_damage_to": [
+                "fighting",
+                "dragon",
+                "dark"
+            ],
+            "no_damage_from": [
+                "dragon"
+            ],
+            "half_damage_from": [
+                "fighting",
+                "bug",
+                "dark"
+            ],
+            "double_damage_from": [
+                "poison",
+                "steel"
+            ]
+        },
+        "jp_name": {
+            "name": "フェアリー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 19,
+        "name": "stellar",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [],
+            "double_damage_to": [],
+            "no_damage_from": [],
+            "half_damage_from": [],
+            "double_damage_from": []
+        },
+        "jp_name": {
+            "name": "ステラ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 10001,
+        "name": "unknown",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [],
+            "double_damage_to": [],
+            "no_damage_from": [],
+            "half_damage_from": [],
+            "double_damage_from": []
+        },
+        "jp_name": {
+            "name": "？？？",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 10002,
+        "name": "shadow",
+        "damage_relations": {
+            "no_damage_to": [],
+            "half_damage_to": [],
+            "double_damage_to": [],
+            "no_damage_from": [],
+            "half_damage_from": [],
+            "double_damage_from": []
+        },
+        "jp_name": {
+            "name": "ダーク",
+            "language": "ja-Hrkt"
+        }
+    }
+]

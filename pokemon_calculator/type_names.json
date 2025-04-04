@@ -1,0 +1,116 @@
+{
+    "normal": {
+        "display_name": "ノーマル",
+        "retrieval_names": [
+            "ノーマル"
+        ]
+    },
+    "fighting": {
+        "display_name": "かくとう",
+        "retrieval_names": [
+            "かくとう"
+        ]
+    },
+    "flying": {
+        "display_name": "ひこう",
+        "retrieval_names": [
+            "ひこう"
+        ]
+    },
+    "poison": {
+        "display_name": "どく",
+        "retrieval_names": [
+            "どく"
+        ]
+    },
+    "ground": {
+        "display_name": "じめん",
+        "retrieval_names": [
+            "じめん"
+        ]
+    },
+    "rock": {
+        "display_name": "いわ",
+        "retrieval_names": [
+            "いわ"
+        ]
+    },
+    "bug": {
+        "display_name": "むし",
+        "retrieval_names": [
+            "むし"
+        ]
+    },
+    "ghost": {
+        "display_name": "ゴースト",
+        "retrieval_names": [
+            "ゴースト"
+        ]
+    },
+    "steel": {
+        "display_name": "はがね",
+        "retrieval_names": [
+            "はがね"
+        ]
+    },
+    "fire": {
+        "display_name": "ほのお",
+        "retrieval_names": [
+            "ほのお"
+        ]
+    },
+    "water": {
+        "display_name": "みず",
+        "retrieval_names": [
+            "みず"
+        ]
+    },
+    "grass": {
+        "display_name": "くさ",
+        "retrieval_names": [
+            "くさ"
+        ]
+    },
+    "electric": {
+        "display_name": "でんき",
+        "retrieval_names": [
+            "でんき"
+        ]
+    },
+    "psychic": {
+        "display_name": "エスパー",
+        "retrieval_names": [
+            "エスパー"
+        ]
+    },
+    "ice": {
+        "display_name": "こおり",
+        "retrieval_names": [
+            "こおり"
+        ]
+    },
+    "dragon": {
+        "display_name": "ドラゴン",
+        "retrieval_names": [
+            "ドラゴン"
+        ]
+    },
+    "dark": {
+        "display_name": "あく",
+        "retrieval_names": [
+            "あく"
+        ]
+    },
+    "fairy": {
+        "display_name": "フェアリー",
+        "retrieval_names": [
+            "フェアリー"
+        ]
+    },
+    "stellar": {
+        "display_name": "ステラ",
+        "retrieval_names": [
+            "ステラ"
+        ]
+    }
+}

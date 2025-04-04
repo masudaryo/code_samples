@@ -1,0 +1,270 @@
+{
+    "ちからのハチマキ": {
+        "display_name": "ちからのハチマキ",
+        "retrieval_names": [
+            "ちからのハチマキ"
+        ]
+    },
+    "ものしりメガネ": {
+        "display_name": "ものしりメガネ",
+        "retrieval_names": [
+            "ものしりメガネ"
+        ]
+    },
+    "パンチグローブ": {
+        "display_name": "パンチグローブ",
+        "retrieval_names": [
+            "パンチグローブ"
+        ]
+    },
+    "1.2倍アイテム": {
+        "display_name": "1.2倍アイテム",
+        "retrieval_names": [
+            "1.2ばいアイテム"
+        ]
+    },
+    "ノーマル1.2倍": {
+        "display_name": "ノーマル1.2倍",
+        "retrieval_names": [
+            "ノーマル1.2ばい"
+        ]
+    },
+    "かくとう1.2倍": {
+        "display_name": "かくとう1.2倍",
+        "retrieval_names": [
+            "かくとう1.2ばい"
+        ]
+    },
+    "ひこう1.2倍": {
+        "display_name": "ひこう1.2倍",
+        "retrieval_names": [
+            "ひこう1.2ばい"
+        ]
+    },
+    "どく1.2倍": {
+        "display_name": "どく1.2倍",
+        "retrieval_names": [
+            "どく1.2ばい"
+        ]
+    },
+    "じめん1.2倍": {
+        "display_name": "じめん1.2倍",
+        "retrieval_names": [
+            "じめん1.2ばい"
+        ]
+    },
+    "いわ1.2倍": {
+        "display_name": "いわ1.2倍",
+        "retrieval_names": [
+            "いわ1.2ばい"
+        ]
+    },
+    "むし1.2倍": {
+        "display_name": "むし1.2倍",
+        "retrieval_names": [
+            "むし1.2ばい"
+        ]
+    },
+    "ゴースト1.2倍": {
+        "display_name": "ゴースト1.2倍",
+        "retrieval_names": [
+            "ゴースト1.2ばい"
+        ]
+    },
+    "はがね1.2倍": {
+        "display_name": "はがね1.2倍",
+        "retrieval_names": [
+            "はがね1.2ばい"
+        ]
+    },
+    "ほのお1.2倍": {
+        "display_name": "ほのお1.2倍",
+        "retrieval_names": [
+            "ほのお1.2ばい"
+        ]
+    },
+    "みず1.2倍": {
+        "display_name": "みず1.2倍",
+        "retrieval_names": [
+            "みず1.2ばい"
+        ]
+    },
+    "くさ1.2倍": {
+        "display_name": "くさ1.2倍",
+        "retrieval_names": [
+            "くさ1.2ばい"
+        ]
+    },
+    "でんき1.2倍": {
+        "display_name": "でんき1.2倍",
+        "retrieval_names": [
+            "でんき1.2ばい"
+        ]
+    },
+    "エスパー1.2倍": {
+        "display_name": "エスパー1.2倍",
+        "retrieval_names": [
+            "エスパー1.2ばい"
+        ]
+    },
+    "こおり1.2倍": {
+        "display_name": "こおり1.2倍",
+        "retrieval_names": [
+            "こおり1.2ばい"
+        ]
+    },
+    "ドラゴン1.2倍": {
+        "display_name": "ドラゴン1.2倍",
+        "retrieval_names": [
+            "ドラゴン1.2ばい"
+        ]
+    },
+    "あく1.2倍": {
+        "display_name": "あく1.2倍",
+        "retrieval_names": [
+            "あく1.2ばい"
+        ]
+    },
+    "フェアリー1.2倍": {
+        "display_name": "フェアリー1.2倍",
+        "retrieval_names": [
+            "フェアリー1.2ばい"
+        ]
+    },
+    "こんごうだま": {
+        "display_name": "こんごうだま",
+        "retrieval_names": [
+            "こんごうだま"
+        ]
+    },
+    "しらたま": {
+        "display_name": "しらたま",
+        "retrieval_names": [
+            "しらたま"
+        ]
+    },
+    "はっきんだま": {
+        "display_name": "はっきんだま",
+        "retrieval_names": [
+            "はっきんだま"
+        ]
+    },
+    "こころのしずく": {
+        "display_name": "こころのしずく",
+        "retrieval_names": [
+            "こころのしずく"
+        ]
+    },
+    "ノーマルジュエル": {
+        "display_name": "ノーマルジュエル",
+        "retrieval_names": [
+            "ノーマルジュエル"
+        ]
+    },
+    "こだわり": {
+        "display_name": "こだわりハチマキ/メガネ",
+        "retrieval_names": [
+            "こだわり"
+        ]
+    },
+    "こだわりハチマキ": {
+        "display_name": "こだわりハチマキ",
+        "retrieval_names": [
+            "こだわりハチマキ",
+            "ハチマキ"
+        ]
+    },
+    "こだわりメガネ": {
+        "display_name": "こだわりメガネ",
+        "retrieval_names": [
+            "こだわりメガネ",
+            "メガネ"
+        ]
+    },
+    "ふといホネ": {
+        "display_name": "ふといホネ",
+        "retrieval_names": [
+            "ふといホネ"
+        ]
+    },
+    "しんかいのキバ": {
+        "display_name": "しんかいのキバ",
+        "retrieval_names": [
+            "しんかいのキバ"
+        ]
+    },
+    "しんかいのウロコ": {
+        "display_name": "しんかいのウロコ",
+        "retrieval_names": [
+            "しんかいのウロコ"
+        ]
+    },
+    "でんきだま": {
+        "display_name": "でんきだま",
+        "retrieval_names": [
+            "でんきだま"
+        ]
+    },
+    "しんかのきせき": {
+        "display_name": "しんかのきせき",
+        "retrieval_names": [
+            "しんかのきせき"
+        ]
+    },
+    "とつげきチョッキ": {
+        "display_name": "とつげきチョッキ",
+        "retrieval_names": [
+            "とつげきチョッキ"
+        ]
+    },
+    "メタルパウダー": {
+        "display_name": "メタルパウダー",
+        "retrieval_names": [
+            "メタルパウダー"
+        ]
+    },
+    "メトロノーム": {
+        "display_name": "メトロノーム",
+        "retrieval_names": [
+            "メトロノーム"
+        ]
+    },
+    "たつじんのおび": {
+        "display_name": "たつじんのおび",
+        "retrieval_names": [
+            "たつじんのおび"
+        ]
+    },
+    "いのちのたま": {
+        "display_name": "いのちのたま",
+        "retrieval_names": [
+            "いのちのたま",
+            "たま"
+        ]
+    },
+    "半減実": {
+        "display_name": "半減実",
+        "retrieval_names": [
+            "はんげんみ"
+        ]
+    },
+    "ノーマル半減実": {
+        "display_name": "ノーマル半減実",
+        "retrieval_names": [
+            "ノーマルはんげんみ"
+        ]
+    },
+    "仮面": {
+        "display_name": "仮面",
+        "retrieval_names": [
+            "かめん"
+        ]
+    },
+    // 持ち物の効果がないことを明示する。ダメージ計算に影響しない持ち物に対するプレースホルダとして使える。アクロバットやポルターガイストの計算にはかかわらない。
+    "もちもの指定なし": {
+        "display_name": "もちもの指定なし",
+        "retrieval_names": [
+            "もちものしていなし"
+        ]
+    }
+}

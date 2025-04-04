@@ -1,0 +1,1845 @@
+{
+    "stench": {
+        "display_name": "あくしゅう",
+        "retrieval_names": [
+            "あくしゅう"
+        ]
+    },
+    "drizzle": {
+        "display_name": "あめふらし",
+        "retrieval_names": [
+            "あめふらし"
+        ]
+    },
+    "speed-boost": {
+        "display_name": "かそく",
+        "retrieval_names": [
+            "かそく"
+        ]
+    },
+    "battle-armor": {
+        "display_name": "カブトアーマー",
+        "retrieval_names": [
+            "カブトアーマー"
+        ]
+    },
+    "sturdy": {
+        "display_name": "がんじょう",
+        "retrieval_names": [
+            "がんじょう"
+        ]
+    },
+    "damp": {
+        "display_name": "しめりけ",
+        "retrieval_names": [
+            "しめりけ"
+        ]
+    },
+    "limber": {
+        "display_name": "じゅうなん",
+        "retrieval_names": [
+            "じゅうなん"
+        ]
+    },
+    "sand-veil": {
+        "display_name": "すながくれ",
+        "retrieval_names": [
+            "すながくれ"
+        ]
+    },
+    "static": {
+        "display_name": "せいでんき",
+        "retrieval_names": [
+            "せいでんき"
+        ]
+    },
+    "volt-absorb": {
+        "display_name": "ちくでん",
+        "retrieval_names": [
+            "ちくでん"
+        ]
+    },
+    "water-absorb": {
+        "display_name": "ちょすい",
+        "retrieval_names": [
+            "ちょすい"
+        ]
+    },
+    "oblivious": {
+        "display_name": "どんかん",
+        "retrieval_names": [
+            "どんかん"
+        ]
+    },
+    "cloud-nine": {
+        "display_name": "ノーてんき",
+        "retrieval_names": [
+            "ノーてんき"
+        ]
+    },
+    "compound-eyes": {
+        "display_name": "ふくがん",
+        "retrieval_names": [
+            "ふくがん"
+        ]
+    },
+    "insomnia": {
+        "display_name": "ふみん",
+        "retrieval_names": [
+            "ふみん"
+        ]
+    },
+    "color-change": {
+        "display_name": "へんしょく",
+        "retrieval_names": [
+            "へんしょく"
+        ]
+    },
+    "immunity": {
+        "display_name": "めんえき",
+        "retrieval_names": [
+            "めんえき"
+        ]
+    },
+    "flash-fire": {
+        "display_name": "もらいび",
+        "retrieval_names": [
+            "もらいび"
+        ]
+    },
+    "shield-dust": {
+        "display_name": "りんぷん",
+        "retrieval_names": [
+            "りんぷん"
+        ]
+    },
+    "own-tempo": {
+        "display_name": "マイペース",
+        "retrieval_names": [
+            "マイペース"
+        ]
+    },
+    "suction-cups": {
+        "display_name": "きゅうばん",
+        "retrieval_names": [
+            "きゅうばん"
+        ]
+    },
+    "intimidate": {
+        "display_name": "いかく",
+        "retrieval_names": [
+            "いかく"
+        ]
+    },
+    "shadow-tag": {
+        "display_name": "かげふみ",
+        "retrieval_names": [
+            "かげふみ"
+        ]
+    },
+    "rough-skin": {
+        "display_name": "さめはだ",
+        "retrieval_names": [
+            "さめはだ"
+        ]
+    },
+    "wonder-guard": {
+        "display_name": "ふしぎなまもり",
+        "retrieval_names": [
+            "ふしぎなまもり"
+        ]
+    },
+    "levitate": {
+        "display_name": "ふゆう",
+        "retrieval_names": [
+            "ふゆう"
+        ]
+    },
+    "effect-spore": {
+        "display_name": "ほうし",
+        "retrieval_names": [
+            "ほうし"
+        ]
+    },
+    "synchronize": {
+        "display_name": "シンクロ",
+        "retrieval_names": [
+            "シンクロ"
+        ]
+    },
+    "clear-body": {
+        "display_name": "クリアボディ",
+        "retrieval_names": [
+            "クリアボディ"
+        ]
+    },
+    "natural-cure": {
+        "display_name": "しぜんかいふく",
+        "retrieval_names": [
+            "しぜんかいふく"
+        ]
+    },
+    "lightning-rod": {
+        "display_name": "ひらいしん",
+        "retrieval_names": [
+            "ひらいしん"
+        ]
+    },
+    "serene-grace": {
+        "display_name": "てんのめぐみ",
+        "retrieval_names": [
+            "てんのめぐみ"
+        ]
+    },
+    "swift-swim": {
+        "display_name": "すいすい",
+        "retrieval_names": [
+            "すいすい"
+        ]
+    },
+    "chlorophyll": {
+        "display_name": "ようりょくそ",
+        "retrieval_names": [
+            "ようりょくそ"
+        ]
+    },
+    "illuminate": {
+        "display_name": "はっこう",
+        "retrieval_names": [
+            "はっこう"
+        ]
+    },
+    "trace": {
+        "display_name": "トレース",
+        "retrieval_names": [
+            "トレース"
+        ]
+    },
+    "huge-power": {
+        "display_name": "ちからもち",
+        "retrieval_names": [
+            "ちからもち"
+        ]
+    },
+    "poison-point": {
+        "display_name": "どくのトゲ",
+        "retrieval_names": [
+            "どくのトゲ"
+        ]
+    },
+    "inner-focus": {
+        "display_name": "せいしんりょく",
+        "retrieval_names": [
+            "せいしんりょく"
+        ]
+    },
+    "magma-armor": {
+        "display_name": "マグマのよろい",
+        "retrieval_names": [
+            "マグマのよろい"
+        ]
+    },
+    "water-veil": {
+        "display_name": "みずのベール",
+        "retrieval_names": [
+            "みずのベール"
+        ]
+    },
+    "magnet-pull": {
+        "display_name": "じりょく",
+        "retrieval_names": [
+            "じりょく"
+        ]
+    },
+    "soundproof": {
+        "display_name": "ぼうおん",
+        "retrieval_names": [
+            "ぼうおん"
+        ]
+    },
+    "rain-dish": {
+        "display_name": "あめうけざら",
+        "retrieval_names": [
+            "あめうけざら"
+        ]
+    },
+    "sand-stream": {
+        "display_name": "すなおこし",
+        "retrieval_names": [
+            "すなおこし"
+        ]
+    },
+    "pressure": {
+        "display_name": "プレッシャー",
+        "retrieval_names": [
+            "プレッシャー"
+        ]
+    },
+    "thick-fat": {
+        "display_name": "あついしぼう",
+        "retrieval_names": [
+            "あついしぼう"
+        ]
+    },
+    "early-bird": {
+        "display_name": "はやおき",
+        "retrieval_names": [
+            "はやおき"
+        ]
+    },
+    "flame-body": {
+        "display_name": "ほのおのからだ",
+        "retrieval_names": [
+            "ほのおのからだ"
+        ]
+    },
+    "run-away": {
+        "display_name": "にげあし",
+        "retrieval_names": [
+            "にげあし"
+        ]
+    },
+    "keen-eye": {
+        "display_name": "するどいめ",
+        "retrieval_names": [
+            "するどいめ"
+        ]
+    },
+    "hyper-cutter": {
+        "display_name": "かいりきバサミ",
+        "retrieval_names": [
+            "かいりきバサミ"
+        ]
+    },
+    "pickup": {
+        "display_name": "ものひろい",
+        "retrieval_names": [
+            "ものひろい"
+        ]
+    },
+    "truant": {
+        "display_name": "なまけ",
+        "retrieval_names": [
+            "なまけ"
+        ]
+    },
+    "hustle": {
+        "display_name": "はりきり",
+        "retrieval_names": [
+            "はりきり"
+        ]
+    },
+    "cute-charm": {
+        "display_name": "メロメロボディ",
+        "retrieval_names": [
+            "メロメロボディ"
+        ]
+    },
+    "plus": {
+        "display_name": "プラス",
+        "retrieval_names": [
+            "プラス"
+        ]
+    },
+    "minus": {
+        "display_name": "マイナス",
+        "retrieval_names": [
+            "マイナス"
+        ]
+    },
+    "forecast": {
+        "display_name": "てんきや",
+        "retrieval_names": [
+            "てんきや"
+        ]
+    },
+    "sticky-hold": {
+        "display_name": "ねんちゃく",
+        "retrieval_names": [
+            "ねんちゃく"
+        ]
+    },
+    "shed-skin": {
+        "display_name": "だっぴ",
+        "retrieval_names": [
+            "だっぴ"
+        ]
+    },
+    "guts": {
+        "display_name": "こんじょう",
+        "retrieval_names": [
+            "こんじょう"
+        ]
+    },
+    "marvel-scale": {
+        "display_name": "ふしぎなうろこ",
+        "retrieval_names": [
+            "ふしぎなうろこ"
+        ]
+    },
+    "liquid-ooze": {
+        "display_name": "ヘドロえき",
+        "retrieval_names": [
+            "ヘドロえき"
+        ]
+    },
+    "overgrow": {
+        "display_name": "しんりょく",
+        "retrieval_names": [
+            "しんりょく"
+        ]
+    },
+    "blaze": {
+        "display_name": "もうか",
+        "retrieval_names": [
+            "もうか"
+        ]
+    },
+    "torrent": {
+        "display_name": "げきりゅう",
+        "retrieval_names": [
+            "げきりゅう"
+        ]
+    },
+    "swarm": {
+        "display_name": "むしのしらせ",
+        "retrieval_names": [
+            "むしのしらせ"
+        ]
+    },
+    "rock-head": {
+        "display_name": "いしあたま",
+        "retrieval_names": [
+            "いしあたま"
+        ]
+    },
+    "drought": {
+        "display_name": "ひでり",
+        "retrieval_names": [
+            "ひでり"
+        ]
+    },
+    "arena-trap": {
+        "display_name": "ありじごく",
+        "retrieval_names": [
+            "ありじごく"
+        ]
+    },
+    "vital-spirit": {
+        "display_name": "やるき",
+        "retrieval_names": [
+            "やるき"
+        ]
+    },
+    "white-smoke": {
+        "display_name": "しろいけむり",
+        "retrieval_names": [
+            "しろいけむり"
+        ]
+    },
+    "pure-power": {
+        "display_name": "ヨガパワー",
+        "retrieval_names": [
+            "ヨガパワー"
+        ]
+    },
+    "shell-armor": {
+        "display_name": "シェルアーマー",
+        "retrieval_names": [
+            "シェルアーマー"
+        ]
+    },
+    "air-lock": {
+        "display_name": "エアロック",
+        "retrieval_names": [
+            "エアロック"
+        ]
+    },
+    "tangled-feet": {
+        "display_name": "ちどりあし",
+        "retrieval_names": [
+            "ちどりあし"
+        ]
+    },
+    "motor-drive": {
+        "display_name": "でんきエンジン",
+        "retrieval_names": [
+            "でんきエンジン"
+        ]
+    },
+    "rivalry": {
+        "display_name": "とうそうしん",
+        "retrieval_names": [
+            "とうそうしん"
+        ]
+    },
+    "steadfast": {
+        "display_name": "ふくつのこころ",
+        "retrieval_names": [
+            "ふくつのこころ"
+        ]
+    },
+    "snow-cloak": {
+        "display_name": "ゆきがくれ",
+        "retrieval_names": [
+            "ゆきがくれ"
+        ]
+    },
+    "gluttony": {
+        "display_name": "くいしんぼう",
+        "retrieval_names": [
+            "くいしんぼう"
+        ]
+    },
+    "anger-point": {
+        "display_name": "いかりのつぼ",
+        "retrieval_names": [
+            "いかりのつぼ"
+        ]
+    },
+    "unburden": {
+        "display_name": "かるわざ",
+        "retrieval_names": [
+            "かるわざ"
+        ]
+    },
+    "heatproof": {
+        "display_name": "たいねつ",
+        "retrieval_names": [
+            "たいねつ"
+        ]
+    },
+    "simple": {
+        "display_name": "たんじゅん",
+        "retrieval_names": [
+            "たんじゅん"
+        ]
+    },
+    "dry-skin": {
+        "display_name": "かんそうはだ",
+        "retrieval_names": [
+            "かんそうはだ"
+        ]
+    },
+    "download": {
+        "display_name": "ダウンロード",
+        "retrieval_names": [
+            "ダウンロード"
+        ]
+    },
+    "iron-fist": {
+        "display_name": "てつのこぶし",
+        "retrieval_names": [
+            "てつのこぶし"
+        ]
+    },
+    "poison-heal": {
+        "display_name": "ポイズンヒール",
+        "retrieval_names": [
+            "ポイズンヒール"
+        ]
+    },
+    "adaptability": {
+        "display_name": "てきおうりょく",
+        "retrieval_names": [
+            "てきおうりょく"
+        ]
+    },
+    "skill-link": {
+        "display_name": "スキルリンク",
+        "retrieval_names": [
+            "スキルリンク"
+        ]
+    },
+    "hydration": {
+        "display_name": "うるおいボディ",
+        "retrieval_names": [
+            "うるおいボディ"
+        ]
+    },
+    "solar-power": {
+        "display_name": "サンパワー",
+        "retrieval_names": [
+            "サンパワー"
+        ]
+    },
+    "quick-feet": {
+        "display_name": "はやあし",
+        "retrieval_names": [
+            "はやあし"
+        ]
+    },
+    "normalize": {
+        "display_name": "ノーマルスキン",
+        "retrieval_names": [
+            "ノーマルスキン"
+        ]
+    },
+    "sniper": {
+        "display_name": "スナイパー",
+        "retrieval_names": [
+            "スナイパー"
+        ]
+    },
+    "magic-guard": {
+        "display_name": "マジックガード",
+        "retrieval_names": [
+            "マジックガード"
+        ]
+    },
+    "no-guard": {
+        "display_name": "ノーガード",
+        "retrieval_names": [
+            "ノーガード"
+        ]
+    },
+    "stall": {
+        "display_name": "あとだし",
+        "retrieval_names": [
+            "あとだし"
+        ]
+    },
+    "technician": {
+        "display_name": "テクニシャン",
+        "retrieval_names": [
+            "テクニシャン"
+        ]
+    },
+    "leaf-guard": {
+        "display_name": "リーフガード",
+        "retrieval_names": [
+            "リーフガード"
+        ]
+    },
+    "klutz": {
+        "display_name": "ぶきよう",
+        "retrieval_names": [
+            "ぶきよう"
+        ]
+    },
+    "mold-breaker": {
+        "display_name": "かたやぶり",
+        "retrieval_names": [
+            "かたやぶり"
+        ]
+    },
+    "super-luck": {
+        "display_name": "きょううん",
+        "retrieval_names": [
+            "きょううん"
+        ]
+    },
+    "aftermath": {
+        "display_name": "ゆうばく",
+        "retrieval_names": [
+            "ゆうばく"
+        ]
+    },
+    "anticipation": {
+        "display_name": "きけんよち",
+        "retrieval_names": [
+            "きけんよち"
+        ]
+    },
+    "forewarn": {
+        "display_name": "よちむ",
+        "retrieval_names": [
+            "よちむ"
+        ]
+    },
+    "unaware": {
+        "display_name": "てんねん",
+        "retrieval_names": [
+            "てんねん"
+        ]
+    },
+    "tinted-lens": {
+        "display_name": "いろめがね",
+        "retrieval_names": [
+            "いろめがね"
+        ]
+    },
+    "filter": {
+        "display_name": "フィルター",
+        "retrieval_names": [
+            "フィルター"
+        ]
+    },
+    "slow-start": {
+        "display_name": "スロースタート",
+        "retrieval_names": [
+            "スロースタート"
+        ]
+    },
+    "scrappy": {
+        "display_name": "きもったま",
+        "retrieval_names": [
+            "きもったま"
+        ]
+    },
+    "storm-drain": {
+        "display_name": "よびみず",
+        "retrieval_names": [
+            "よびみず"
+        ]
+    },
+    "ice-body": {
+        "display_name": "アイスボディ",
+        "retrieval_names": [
+            "アイスボディ"
+        ]
+    },
+    "solid-rock": {
+        "display_name": "ハードロック",
+        "retrieval_names": [
+            "ハードロック"
+        ]
+    },
+    "snow-warning": {
+        "display_name": "ゆきふらし",
+        "retrieval_names": [
+            "ゆきふらし"
+        ]
+    },
+    "honey-gather": {
+        "display_name": "みつあつめ",
+        "retrieval_names": [
+            "みつあつめ"
+        ]
+    },
+    "frisk": {
+        "display_name": "おみとおし",
+        "retrieval_names": [
+            "おみとおし"
+        ]
+    },
+    "reckless": {
+        "display_name": "すてみ",
+        "retrieval_names": [
+            "すてみ"
+        ]
+    },
+    "multitype": {
+        "display_name": "マルチタイプ",
+        "retrieval_names": [
+            "マルチタイプ"
+        ]
+    },
+    "flower-gift": {
+        "display_name": "フラワーギフト",
+        "retrieval_names": [
+            "フラワーギフト"
+        ]
+    },
+    "bad-dreams": {
+        "display_name": "ナイトメア",
+        "retrieval_names": [
+            "ナイトメア"
+        ]
+    },
+    "pickpocket": {
+        "display_name": "わるいてぐせ",
+        "retrieval_names": [
+            "わるいてぐせ"
+        ]
+    },
+    "sheer-force": {
+        "display_name": "ちからずく",
+        "retrieval_names": [
+            "ちからずく"
+        ]
+    },
+    "contrary": {
+        "display_name": "あまのじゃく",
+        "retrieval_names": [
+            "あまのじゃく"
+        ]
+    },
+    "unnerve": {
+        "display_name": "きんちょうかん",
+        "retrieval_names": [
+            "きんちょうかん"
+        ]
+    },
+    "defiant": {
+        "display_name": "まけんき",
+        "retrieval_names": [
+            "まけんき"
+        ]
+    },
+    "defeatist": {
+        "display_name": "よわき",
+        "retrieval_names": [
+            "よわき"
+        ]
+    },
+    "cursed-body": {
+        "display_name": "のろわれボディ",
+        "retrieval_names": [
+            "のろわれボディ"
+        ]
+    },
+    "healer": {
+        "display_name": "いやしのこころ",
+        "retrieval_names": [
+            "いやしのこころ"
+        ]
+    },
+    "friend-guard": {
+        "display_name": "フレンドガード",
+        "retrieval_names": [
+            "フレンドガード"
+        ]
+    },
+    "weak-armor": {
+        "display_name": "くだけるよろい",
+        "retrieval_names": [
+            "くだけるよろい"
+        ]
+    },
+    "heavy-metal": {
+        "display_name": "ヘヴィメタル",
+        "retrieval_names": [
+            "ヘヴィメタル"
+        ]
+    },
+    "light-metal": {
+        "display_name": "ライトメタル",
+        "retrieval_names": [
+            "ライトメタル"
+        ]
+    },
+    "multiscale": {
+        "display_name": "マルチスケイル",
+        "retrieval_names": [
+            "マルチスケイル"
+        ]
+    },
+    "toxic-boost": {
+        "display_name": "どくぼうそう",
+        "retrieval_names": [
+            "どくぼうそう"
+        ]
+    },
+    "flare-boost": {
+        "display_name": "ねつぼうそう",
+        "retrieval_names": [
+            "ねつぼうそう"
+        ]
+    },
+    "harvest": {
+        "display_name": "しゅうかく",
+        "retrieval_names": [
+            "しゅうかく"
+        ]
+    },
+    "telepathy": {
+        "display_name": "テレパシー",
+        "retrieval_names": [
+            "テレパシー"
+        ]
+    },
+    "moody": {
+        "display_name": "ムラっけ",
+        "retrieval_names": [
+            "ムラっけ"
+        ]
+    },
+    "overcoat": {
+        "display_name": "ぼうじん",
+        "retrieval_names": [
+            "ぼうじん"
+        ]
+    },
+    "poison-touch": {
+        "display_name": "どくしゅ",
+        "retrieval_names": [
+            "どくしゅ"
+        ]
+    },
+    "regenerator": {
+        "display_name": "さいせいりょく",
+        "retrieval_names": [
+            "さいせいりょく"
+        ]
+    },
+    "big-pecks": {
+        "display_name": "はとむね",
+        "retrieval_names": [
+            "はとむね"
+        ]
+    },
+    "sand-rush": {
+        "display_name": "すなかき",
+        "retrieval_names": [
+            "すなかき"
+        ]
+    },
+    "wonder-skin": {
+        "display_name": "ミラクルスキン",
+        "retrieval_names": [
+            "ミラクルスキン"
+        ]
+    },
+    "analytic": {
+        "display_name": "アナライズ",
+        "retrieval_names": [
+            "アナライズ"
+        ]
+    },
+    "illusion": {
+        "display_name": "イリュージョン",
+        "retrieval_names": [
+            "イリュージョン"
+        ]
+    },
+    "imposter": {
+        "display_name": "かわりもの",
+        "retrieval_names": [
+            "かわりもの"
+        ]
+    },
+    "infiltrator": {
+        "display_name": "すりぬけ",
+        "retrieval_names": [
+            "すりぬけ"
+        ]
+    },
+    "mummy": {
+        "display_name": "ミイラ",
+        "retrieval_names": [
+            "ミイラ"
+        ]
+    },
+    "moxie": {
+        "display_name": "じしんかじょう",
+        "retrieval_names": [
+            "じしんかじょう"
+        ]
+    },
+    "justified": {
+        "display_name": "せいぎのこころ",
+        "retrieval_names": [
+            "せいぎのこころ"
+        ]
+    },
+    "rattled": {
+        "display_name": "びびり",
+        "retrieval_names": [
+            "びびり"
+        ]
+    },
+    "magic-bounce": {
+        "display_name": "マジックミラー",
+        "retrieval_names": [
+            "マジックミラー"
+        ]
+    },
+    "sap-sipper": {
+        "display_name": "そうしょく",
+        "retrieval_names": [
+            "そうしょく"
+        ]
+    },
+    "prankster": {
+        "display_name": "いたずらごころ",
+        "retrieval_names": [
+            "いたずらごころ"
+        ]
+    },
+    "sand-force": {
+        "display_name": "すなのちから",
+        "retrieval_names": [
+            "すなのちから"
+        ]
+    },
+    "iron-barbs": {
+        "display_name": "てつのトゲ",
+        "retrieval_names": [
+            "てつのトゲ"
+        ]
+    },
+    "zen-mode": {
+        "display_name": "ダルマモード",
+        "retrieval_names": [
+            "ダルマモード"
+        ]
+    },
+    "victory-star": {
+        "display_name": "しょうりのほし",
+        "retrieval_names": [
+            "しょうりのほし"
+        ]
+    },
+    "turboblaze": {
+        "display_name": "ターボブレイズ",
+        "retrieval_names": [
+            "ターボブレイズ"
+        ]
+    },
+    "teravolt": {
+        "display_name": "テラボルテージ",
+        "retrieval_names": [
+            "テラボルテージ"
+        ]
+    },
+    "aroma-veil": {
+        "display_name": "アロマベール",
+        "retrieval_names": [
+            "アロマベール"
+        ]
+    },
+    "flower-veil": {
+        "display_name": "フラワーベール",
+        "retrieval_names": [
+            "フラワーベール"
+        ]
+    },
+    "cheek-pouch": {
+        "display_name": "ほおぶくろ",
+        "retrieval_names": [
+            "ほおぶくろ"
+        ]
+    },
+    "protean": {
+        "display_name": "へんげんじざい",
+        "retrieval_names": [
+            "へんげんじざい"
+        ]
+    },
+    "fur-coat": {
+        "display_name": "ファーコート",
+        "retrieval_names": [
+            "ファーコート"
+        ]
+    },
+    "magician": {
+        "display_name": "マジシャン",
+        "retrieval_names": [
+            "マジシャン"
+        ]
+    },
+    "bulletproof": {
+        "display_name": "ぼうだん",
+        "retrieval_names": [
+            "ぼうだん"
+        ]
+    },
+    "competitive": {
+        "display_name": "かちき",
+        "retrieval_names": [
+            "かちき"
+        ]
+    },
+    "strong-jaw": {
+        "display_name": "がんじょうあご",
+        "retrieval_names": [
+            "がんじょうあご"
+        ]
+    },
+    "refrigerate": {
+        "display_name": "フリーズスキン",
+        "retrieval_names": [
+            "フリーズスキン"
+        ]
+    },
+    "sweet-veil": {
+        "display_name": "スイートベール",
+        "retrieval_names": [
+            "スイートベール"
+        ]
+    },
+    "stance-change": {
+        "display_name": "バトルスイッチ",
+        "retrieval_names": [
+            "バトルスイッチ"
+        ]
+    },
+    "gale-wings": {
+        "display_name": "はやてのつばさ",
+        "retrieval_names": [
+            "はやてのつばさ"
+        ]
+    },
+    "mega-launcher": {
+        "display_name": "メガランチャー",
+        "retrieval_names": [
+            "メガランチャー"
+        ]
+    },
+    "grass-pelt": {
+        "display_name": "くさのけがわ",
+        "retrieval_names": [
+            "くさのけがわ"
+        ]
+    },
+    "symbiosis": {
+        "display_name": "きょうせい",
+        "retrieval_names": [
+            "きょうせい"
+        ]
+    },
+    "tough-claws": {
+        "display_name": "かたいツメ",
+        "retrieval_names": [
+            "かたいツメ"
+        ]
+    },
+    "pixilate": {
+        "display_name": "フェアリースキン",
+        "retrieval_names": [
+            "フェアリースキン"
+        ]
+    },
+    "gooey": {
+        "display_name": "ぬめぬめ",
+        "retrieval_names": [
+            "ぬめぬめ"
+        ]
+    },
+    "aerilate": {
+        "display_name": "スカイスキン",
+        "retrieval_names": [
+            "スカイスキン"
+        ]
+    },
+    "parental-bond": {
+        "display_name": "おやこあい",
+        "retrieval_names": [
+            "おやこあい"
+        ]
+    },
+    "dark-aura": {
+        "display_name": "ダークオーラ",
+        "retrieval_names": [
+            "ダークオーラ"
+        ]
+    },
+    "fairy-aura": {
+        "display_name": "フェアリーオーラ",
+        "retrieval_names": [
+            "フェアリーオーラ"
+        ]
+    },
+    "aura-break": {
+        "display_name": "オーラブレイク",
+        "retrieval_names": [
+            "オーラブレイク"
+        ]
+    },
+    "primordial-sea": {
+        "display_name": "はじまりのうみ",
+        "retrieval_names": [
+            "はじまりのうみ"
+        ]
+    },
+    "desolate-land": {
+        "display_name": "おわりのだいち",
+        "retrieval_names": [
+            "おわりのだいち"
+        ]
+    },
+    "delta-stream": {
+        "display_name": "デルタストリーム",
+        "retrieval_names": [
+            "デルタストリーム"
+        ]
+    },
+    "stamina": {
+        "display_name": "じきゅうりょく",
+        "retrieval_names": [
+            "じきゅうりょく"
+        ]
+    },
+    "wimp-out": {
+        "display_name": "にげごし",
+        "retrieval_names": [
+            "にげごし"
+        ]
+    },
+    "emergency-exit": {
+        "display_name": "ききかいひ",
+        "retrieval_names": [
+            "ききかいひ"
+        ]
+    },
+    "water-compaction": {
+        "display_name": "みずがため",
+        "retrieval_names": [
+            "みずがため"
+        ]
+    },
+    "merciless": {
+        "display_name": "ひとでなし",
+        "retrieval_names": [
+            "ひとでなし"
+        ]
+    },
+    "shields-down": {
+        "display_name": "リミットシールド",
+        "retrieval_names": [
+            "リミットシールド"
+        ]
+    },
+    "stakeout": {
+        "display_name": "はりこみ",
+        "retrieval_names": [
+            "はりこみ"
+        ]
+    },
+    "water-bubble": {
+        "display_name": "すいほう",
+        "retrieval_names": [
+            "すいほう"
+        ]
+    },
+    "steelworker": {
+        "display_name": "はがねつかい",
+        "retrieval_names": [
+            "はがねつかい"
+        ]
+    },
+    "berserk": {
+        "display_name": "ぎゃくじょう",
+        "retrieval_names": [
+            "ぎゃくじょう"
+        ]
+    },
+    "slush-rush": {
+        "display_name": "ゆきかき",
+        "retrieval_names": [
+            "ゆきかき"
+        ]
+    },
+    "long-reach": {
+        "display_name": "えんかく",
+        "retrieval_names": [
+            "えんかく"
+        ]
+    },
+    "liquid-voice": {
+        "display_name": "うるおいボイス",
+        "retrieval_names": [
+            "うるおいボイス"
+        ]
+    },
+    "triage": {
+        "display_name": "ヒーリングシフト",
+        "retrieval_names": [
+            "ヒーリングシフト"
+        ]
+    },
+    "galvanize": {
+        "display_name": "エレキスキン",
+        "retrieval_names": [
+            "エレキスキン"
+        ]
+    },
+    "surge-surfer": {
+        "display_name": "サーフテール",
+        "retrieval_names": [
+            "サーフテール"
+        ]
+    },
+    "schooling": {
+        "display_name": "ぎょぐん",
+        "retrieval_names": [
+            "ぎょぐん"
+        ]
+    },
+    "disguise": {
+        "display_name": "ばけのかわ",
+        "retrieval_names": [
+            "ばけのかわ"
+        ]
+    },
+    "battle-bond": {
+        "display_name": "きずなへんげ",
+        "retrieval_names": [
+            "きずなへんげ"
+        ]
+    },
+    "power-construct": {
+        "display_name": "スワームチェンジ",
+        "retrieval_names": [
+            "スワームチェンジ"
+        ]
+    },
+    "corrosion": {
+        "display_name": "ふしょく",
+        "retrieval_names": [
+            "ふしょく"
+        ]
+    },
+    "comatose": {
+        "display_name": "ぜったいねむり",
+        "retrieval_names": [
+            "ぜったいねむり"
+        ]
+    },
+    "queenly-majesty": {
+        "display_name": "じょおうのいげん",
+        "retrieval_names": [
+            "じょおうのいげん"
+        ]
+    },
+    "innards-out": {
+        "display_name": "とびだすなかみ",
+        "retrieval_names": [
+            "とびだすなかみ"
+        ]
+    },
+    "dancer": {
+        "display_name": "おどりこ",
+        "retrieval_names": [
+            "おどりこ"
+        ]
+    },
+    "battery": {
+        "display_name": "バッテリー",
+        "retrieval_names": [
+            "バッテリー"
+        ]
+    },
+    "fluffy": {
+        "display_name": "もふもふ",
+        "retrieval_names": [
+            "もふもふ"
+        ]
+    },
+    "dazzling": {
+        "display_name": "ビビッドボディ",
+        "retrieval_names": [
+            "ビビッドボディ"
+        ]
+    },
+    "soul-heart": {
+        "display_name": "ソウルハート",
+        "retrieval_names": [
+            "ソウルハート"
+        ]
+    },
+    "tangling-hair": {
+        "display_name": "カーリーヘアー",
+        "retrieval_names": [
+            "カーリーヘアー"
+        ]
+    },
+    "receiver": {
+        "display_name": "レシーバー",
+        "retrieval_names": [
+            "レシーバー"
+        ]
+    },
+    "power-of-alchemy": {
+        "display_name": "かがくのちから",
+        "retrieval_names": [
+            "かがくのちから"
+        ]
+    },
+    "beast-boost": {
+        "display_name": "ビーストブースト",
+        "retrieval_names": [
+            "ビーストブースト"
+        ]
+    },
+    "rks-system": {
+        "display_name": "ＡＲシステム",
+        "retrieval_names": [
+            "ＡＲシステム"
+        ]
+    },
+    "electric-surge": {
+        "display_name": "エレキメイカー",
+        "retrieval_names": [
+            "エレキメイカー"
+        ]
+    },
+    "psychic-surge": {
+        "display_name": "サイコメイカー",
+        "retrieval_names": [
+            "サイコメイカー"
+        ]
+    },
+    "misty-surge": {
+        "display_name": "ミストメイカー",
+        "retrieval_names": [
+            "ミストメイカー"
+        ]
+    },
+    "grassy-surge": {
+        "display_name": "グラスメイカー",
+        "retrieval_names": [
+            "グラスメイカー"
+        ]
+    },
+    "full-metal-body": {
+        "display_name": "メタルプロテクト",
+        "retrieval_names": [
+            "メタルプロテクト"
+        ]
+    },
+    "shadow-shield": {
+        "display_name": "ファントムガード",
+        "retrieval_names": [
+            "ファントムガード"
+        ]
+    },
+    "prism-armor": {
+        "display_name": "プリズムアーマー",
+        "retrieval_names": [
+            "プリズムアーマー"
+        ]
+    },
+    "neuroforce": {
+        "display_name": "ブレインフォース",
+        "retrieval_names": [
+            "ブレインフォース"
+        ]
+    },
+    "intrepid-sword": {
+        "display_name": "ふとうのけん",
+        "retrieval_names": [
+            "ふとうのけん"
+        ]
+    },
+    "dauntless-shield": {
+        "display_name": "ふくつのたて",
+        "retrieval_names": [
+            "ふくつのたて"
+        ]
+    },
+    "libero": {
+        "display_name": "リベロ",
+        "retrieval_names": [
+            "リベロ"
+        ]
+    },
+    "ball-fetch": {
+        "display_name": "たまひろい",
+        "retrieval_names": [
+            "たまひろい"
+        ]
+    },
+    "cotton-down": {
+        "display_name": "わたげ",
+        "retrieval_names": [
+            "わたげ"
+        ]
+    },
+    "propeller-tail": {
+        "display_name": "スクリューおびれ",
+        "retrieval_names": [
+            "スクリューおびれ"
+        ]
+    },
+    "mirror-armor": {
+        "display_name": "ミラーアーマー",
+        "retrieval_names": [
+            "ミラーアーマー"
+        ]
+    },
+    "gulp-missile": {
+        "display_name": "うのミサイル",
+        "retrieval_names": [
+            "うのミサイル"
+        ]
+    },
+    "stalwart": {
+        "display_name": "すじがねいり",
+        "retrieval_names": [
+            "すじがねいり"
+        ]
+    },
+    "steam-engine": {
+        "display_name": "じょうききかん",
+        "retrieval_names": [
+            "じょうききかん"
+        ]
+    },
+    "punk-rock": {
+        "display_name": "パンクロック",
+        "retrieval_names": [
+            "パンクロック"
+        ]
+    },
+    "sand-spit": {
+        "display_name": "すなはき",
+        "retrieval_names": [
+            "すなはき"
+        ]
+    },
+    "ice-scales": {
+        "display_name": "こおりのりんぷん",
+        "retrieval_names": [
+            "こおりのりんぷん"
+        ]
+    },
+    "ripen": {
+        "display_name": "じゅくせい",
+        "retrieval_names": [
+            "じゅくせい"
+        ]
+    },
+    "ice-face": {
+        "display_name": "アイスフェイス",
+        "retrieval_names": [
+            "アイスフェイス"
+        ]
+    },
+    "power-spot": {
+        "display_name": "パワースポット",
+        "retrieval_names": [
+            "パワースポット"
+        ]
+    },
+    "mimicry": {
+        "display_name": "ぎたい",
+        "retrieval_names": [
+            "ぎたい"
+        ]
+    },
+    "screen-cleaner": {
+        "display_name": "バリアフリー",
+        "retrieval_names": [
+            "バリアフリー"
+        ]
+    },
+    "steely-spirit": {
+        "display_name": "はがねのせいしん",
+        "retrieval_names": [
+            "はがねのせいしん"
+        ]
+    },
+    "perish-body": {
+        "display_name": "ほろびのボディ",
+        "retrieval_names": [
+            "ほろびのボディ"
+        ]
+    },
+    "wandering-spirit": {
+        "display_name": "さまようたましい",
+        "retrieval_names": [
+            "さまようたましい"
+        ]
+    },
+    "gorilla-tactics": {
+        "display_name": "ごりむちゅう",
+        "retrieval_names": [
+            "ごりむちゅう"
+        ]
+    },
+    "neutralizing-gas": {
+        "display_name": "かがくへんかガス",
+        "retrieval_names": [
+            "かがくへんかガス"
+        ]
+    },
+    "pastel-veil": {
+        "display_name": "パステルベール",
+        "retrieval_names": [
+            "パステルベール"
+        ]
+    },
+    "hunger-switch": {
+        "display_name": "はらぺこスイッチ",
+        "retrieval_names": [
+            "はらぺこスイッチ"
+        ]
+    },
+    "quick-draw": {
+        "display_name": "クイックドロウ",
+        "retrieval_names": [
+            "クイックドロウ"
+        ]
+    },
+    "unseen-fist": {
+        "display_name": "ふかしのこぶし",
+        "retrieval_names": [
+            "ふかしのこぶし"
+        ]
+    },
+    "curious-medicine": {
+        "display_name": "きみょうなくすり",
+        "retrieval_names": [
+            "きみょうなくすり"
+        ]
+    },
+    "transistor": {
+        "display_name": "トランジスタ",
+        "retrieval_names": [
+            "トランジスタ"
+        ]
+    },
+    "dragons-maw": {
+        "display_name": "りゅうのあぎと",
+        "retrieval_names": [
+            "りゅうのあぎと"
+        ]
+    },
+    "chilling-neigh": {
+        "display_name": "しろのいななき",
+        "retrieval_names": [
+            "しろのいななき"
+        ]
+    },
+    "grim-neigh": {
+        "display_name": "くろのいななき",
+        "retrieval_names": [
+            "くろのいななき"
+        ]
+    },
+    "as-one-glastrier": {
+        "display_name": "じんばいったい（as-one-glastrier）",
+        "retrieval_names": [
+            "じんばいったい（as-one-glastrier）"
+        ]
+    },
+    "as-one-spectrier": {
+        "display_name": "じんばいったい（as-one-spectrier）",
+        "retrieval_names": [
+            "じんばいったい（as-one-spectrier）"
+        ]
+    },
+    "lingering-aroma": {
+        "display_name": "とれないにおい",
+        "retrieval_names": [
+            "とれないにおい"
+        ]
+    },
+    "seed-sower": {
+        "display_name": "こぼれダネ",
+        "retrieval_names": [
+            "こぼれダネ"
+        ]
+    },
+    "thermal-exchange": {
+        "display_name": "ねつこうかん",
+        "retrieval_names": [
+            "ねつこうかん"
+        ]
+    },
+    "anger-shell": {
+        "display_name": "いかりのこうら",
+        "retrieval_names": [
+            "いかりのこうら"
+        ]
+    },
+    "purifying-salt": {
+        "display_name": "きよめのしお",
+        "retrieval_names": [
+            "きよめのしお"
+        ]
+    },
+    "well-baked-body": {
+        "display_name": "こんがりボディ",
+        "retrieval_names": [
+            "こんがりボディ"
+        ]
+    },
+    "wind-rider": {
+        "display_name": "かぜのり",
+        "retrieval_names": [
+            "かぜのり"
+        ]
+    },
+    "guard-dog": {
+        "display_name": "ばんけん",
+        "retrieval_names": [
+            "ばんけん"
+        ]
+    },
+    "rocky-payload": {
+        "display_name": "いわはこび",
+        "retrieval_names": [
+            "いわはこび"
+        ]
+    },
+    "wind-power": {
+        "display_name": "ふうりょくでんき",
+        "retrieval_names": [
+            "ふうりょくでんき"
+        ]
+    },
+    "zero-to-hero": {
+        "display_name": "マイティチェンジ",
+        "retrieval_names": [
+            "マイティチェンジ"
+        ]
+    },
+    "commander": {
+        "display_name": "しれいとう",
+        "retrieval_names": [
+            "しれいとう"
+        ]
+    },
+    "electromorphosis": {
+        "display_name": "でんきにかえる",
+        "retrieval_names": [
+            "でんきにかえる"
+        ]
+    },
+    "protosynthesis": {
+        "display_name": "こだいかっせい",
+        "retrieval_names": [
+            "こだいかっせい"
+        ]
+    },
+    "quark-drive": {
+        "display_name": "クォークチャージ",
+        "retrieval_names": [
+            "クォークチャージ",
+            "クオークチャージ"
+        ]
+    },
+    "good-as-gold": {
+        "display_name": "おうごんのからだ",
+        "retrieval_names": [
+            "おうごんのからだ"
+        ]
+    },
+    "vessel-of-ruin": {
+        "display_name": "わざわいのうつわ",
+        "retrieval_names": [
+            "わざわいのうつわ"
+        ]
+    },
+    "sword-of-ruin": {
+        "display_name": "わざわいのつるぎ",
+        "retrieval_names": [
+            "わざわいのつるぎ"
+        ]
+    },
+    "tablets-of-ruin": {
+        "display_name": "わざわいのおふだ",
+        "retrieval_names": [
+            "わざわいのおふだ"
+        ]
+    },
+    "beads-of-ruin": {
+        "display_name": "わざわいのたま",
+        "retrieval_names": [
+            "わざわいのたま"
+        ]
+    },
+    "orichalcum-pulse": {
+        "display_name": "ひひいろのこどう",
+        "retrieval_names": [
+            "ひひいろのこどう"
+        ]
+    },
+    "hadron-engine": {
+        "display_name": "ハドロンエンジン",
+        "retrieval_names": [
+            "ハドロンエンジン"
+        ]
+    },
+    "opportunist": {
+        "display_name": "びんじょう",
+        "retrieval_names": [
+            "びんじょう"
+        ]
+    },
+    "cud-chew": {
+        "display_name": "はんすう",
+        "retrieval_names": [
+            "はんすう"
+        ]
+    },
+    "sharpness": {
+        "display_name": "きれあじ",
+        "retrieval_names": [
+            "きれあじ"
+        ]
+    },
+    "supreme-overlord": {
+        "display_name": "そうだいしょう",
+        "retrieval_names": [
+            "そうだいしょう"
+        ]
+    },
+    "costar": {
+        "display_name": "きょうえん",
+        "retrieval_names": [
+            "きょうえん"
+        ]
+    },
+    "toxic-debris": {
+        "display_name": "どくげしょう",
+        "retrieval_names": [
+            "どくげしょう"
+        ]
+    },
+    "armor-tail": {
+        "display_name": "テイルアーマー",
+        "retrieval_names": [
+            "テイルアーマー"
+        ]
+    },
+    "earth-eater": {
+        "display_name": "どしょく",
+        "retrieval_names": [
+            "どしょく"
+        ]
+    },
+    "mycelium-might": {
+        "display_name": "きんしのちから",
+        "retrieval_names": [
+            "きんしのちから"
+        ]
+    },
+    "minds-eye": {
+        "display_name": "しんがん",
+        "retrieval_names": [
+            "しんがん"
+        ]
+    },
+    "supersweet-syrup": {
+        "display_name": "かんろなミツ",
+        "retrieval_names": [
+            "かんろなミツ"
+        ]
+    },
+    "hospitality": {
+        "display_name": "おもてなし",
+        "retrieval_names": [
+            "おもてなし"
+        ]
+    },
+    "toxic-chain": {
+        "display_name": "どくのくさり",
+        "retrieval_names": [
+            "どくのくさり"
+        ]
+    },
+    "embody-aspect": {
+        "display_name": "おもかげやどし",
+        "retrieval_names": [
+            "おもかげやどし"
+        ]
+    },
+    "tera-shift": {
+        "display_name": "テラスチェンジ",
+        "retrieval_names": [
+            "テラスチェンジ"
+        ]
+    },
+    "tera-shell": {
+        "display_name": "テラスシェル",
+        "retrieval_names": [
+            "テラスシェル"
+        ]
+    },
+    "teraform-zero": {
+        "display_name": "ゼロフォーミング",
+        "retrieval_names": [
+            "ゼロフォーミング"
+        ]
+    },
+    "poison-puppeteer": {
+        "display_name": "どくくぐつ",
+        "retrieval_names": [
+            "どくくぐつ"
+        ]
+    }
+}

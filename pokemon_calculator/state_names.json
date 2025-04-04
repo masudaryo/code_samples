@@ -1,0 +1,388 @@
+{
+    "にほんばれ": {
+        "display_name": "はれ",
+        "retrieval_names": [
+            "はれ"
+        ]
+    },
+    "あめ": {
+        "display_name": "あめ",
+        "retrieval_names": [
+            "あめ"
+        ]
+    },
+    "すなあらし": {
+        "display_name": "すなあらし",
+        "retrieval_names": [
+            "すなあらし"
+        ]
+    },
+    "ゆき": {
+        "display_name": "ゆき",
+        "retrieval_names": [
+            "ゆき"
+        ]
+    },
+    "エレキフィールド": {
+        "display_name": "エレキフィールド",
+        "retrieval_names": [
+            "エレキフィールド"
+        ]
+    },
+    "グラスフィールド": {
+        "display_name": "グラスフィールド",
+        "retrieval_names": [
+            "グラスフィールド"
+        ]
+    },
+    "ミストフィールド": {
+        "display_name": "ミストフィールド",
+        "retrieval_names": [
+            "ミストフィールド"
+        ]
+    },
+    "サイコフィールド": {
+        "display_name": "サイコフィールド",
+        "retrieval_names": [
+            "サイコフィールド"
+        ]
+    },
+    "壁": {
+        "display_name": "壁",
+        "retrieval_names": [
+            "かべ"
+        ]
+    },
+    "とうそうしん弱化": {
+        "display_name": "とうそうしん弱化",
+        "retrieval_names": [
+            "とうそうしんじゃくか"
+        ]
+    },
+    "とうそうしん強化": {
+        "display_name": "とうそうしん強化",
+        "retrieval_names": [
+            "とうそうしんきょうか"
+        ]
+    },
+    "そうだいしょう1": {
+        "display_name": "そうだいしょう1",
+        "retrieval_names": [
+            "そうだいしょう1"
+        ]
+    },
+    "そうだいしょう2": {
+        "display_name": "そうだいしょう2",
+        "retrieval_names": [
+            "そうだいしょう2"
+        ]
+    },
+    "そうだいしょう3": {
+        "display_name": "そうだいしょう3",
+        "retrieval_names": [
+            "そうだいしょう3"
+        ]
+    },
+    "そうだいしょう4": {
+        "display_name": "そうだいしょう4",
+        "retrieval_names": [
+            "そうだいしょう4"
+        ]
+    },
+    "そうだいしょう5": {
+        "display_name": "そうだいしょう5",
+        "retrieval_names": [
+            "そうだいしょう5"
+        ]
+    },
+    "てだすけ": {
+        "display_name": "てだすけ",
+        "retrieval_names": [
+            "てだすけ"
+        ]
+    },
+    "はたきおとす持ち物あり": {
+        "display_name": "はたきおとす持ち物あり",
+        "retrieval_names": [
+            "はたきおとすもちものあり"
+        ]
+    },
+    "じゅうでん": {
+        "display_name": "じゅうでん",
+        "retrieval_names": [
+            "じゅうでん"
+        ]
+    },
+    "からげんき状態異常": {
+        "display_name": "からげんき状態異常",
+        "retrieval_names": [
+            "からげんきじょうたいいじょう"
+        ]
+    },
+    "しおみずHP半分以下": {
+        "display_name": "しおみずHP半分以下",
+        "retrieval_names": [
+            "しおみずHPはんぶんいか"
+        ]
+    },
+    "かたきうち強化": {
+        "display_name": "かたきうち強化",
+        "retrieval_names": [
+            "かたきうちきょうか"
+        ]
+    },
+    "ブーストエナジー等攻撃強化": {
+        "display_name": "ブーストエナジー等攻撃強化",
+        "retrieval_names": [
+            "ブーストエナジーこうげき",
+            "クォークチャージこうげき",
+            "クオークチャージこうげき",
+            "こだいかっせいこうげき"
+        ]
+    },
+    "ブーストエナジー等耐久強化": {
+        "display_name": "ブーストエナジー等耐久強化",
+        "retrieval_names": [
+            "ブーストエナジーたいきゅう",
+            "クォークチャージたいきゅう",
+            "クオークチャージたいきゅう",
+            "こだいかっせいたいきゅう"
+        ]
+    },
+    "マルチスケイル発動": {
+        "display_name": "マルチスケイル発動",
+        "retrieval_names": [
+            "マルチスケイルはつどう",
+        ]
+    },
+    "ファントムガード発動": {
+        "display_name": "ファントムガード発動",
+        "retrieval_names": [
+            "ファントムガードはつどう"
+        ]
+    },
+    "ちいさくなる": {
+        "display_name": "ちいさくなる",
+        "retrieval_names": [
+            "ちいさくなる"
+        ]
+    },
+    "あなをほる": {
+        "display_name": "あなをほる",
+        "retrieval_names": [
+            "あなをほる"
+        ]
+    },
+    "ダイビング": {
+        "display_name": "ダイビング",
+        "retrieval_names": [
+            "ダイビング"
+        ]
+    },
+    "アナライズ発動": {
+        "display_name": "アナライズ発動",
+        "retrieval_names": [
+            "アナライはつどう"
+        ]
+    },
+    "アクロバット持ち物なし": {
+        "display_name": "アクロバット持ち物なし",
+        "retrieval_names": [
+            "アクロバットもちものなし"
+        ]
+    },
+    "ダブルバトル": {
+        "display_name": "ダブルバトル",
+        "retrieval_names": [
+            "ダブルバトル"
+        ]
+    },
+    "きゅうしょ": {
+        "display_name": "きゅうしょ",
+        "retrieval_names": [
+            "きゅうしょ"
+        ]
+    },
+    // 今のところ適用対象はない
+    // "やけど（防御側）": {
+    //     "display_name": "やけど（防御側）",
+    //     "retrieval_names": [
+    //         "やけどぼうぎょがわ"
+    //     ]
+    // },
+    "やけど": { // 攻撃低下の効果のみ
+        "display_name": "やけど",
+        "retrieval_names": [
+            "やけど"
+        ]
+    },
+    "ねつぼうそう発動": {
+        "display_name": "ねつぼうそう発動",
+        "retrieval_names": [
+            "ねつぼうそうはつどう"
+        ]
+    },
+    "どくぼうそう発動": {
+        "display_name": "どくぼうそう発動",
+        "retrieval_names": [
+            "どくぼうそうはつどう"
+        ]
+    },
+    "ベノムショック強化": {
+        "display_name": "ベノムショック強化",
+        "retrieval_names": [
+            "ベノムショックきょうか"
+        ]
+    },
+    "きょけんとつげき後": {
+        "display_name": "きょけんとつげき後",
+        "retrieval_names": [
+            "きょけんとつげきご"
+        ]
+    },
+    // 物理/特殊が切り替わる技に指定する
+    "物理": {
+        "display_name": "物理",
+        "retrieval_names": [
+            "ぶつり"
+        ]
+    },
+    "特殊": {
+        "display_name": "特殊",
+        "retrieval_names": [
+            "とくしゅ"
+        ]
+    },
+    "こんじょう発動": {
+        "display_name": "こんじょう発動",
+        "retrieval_names": [
+            "こんじょうはつどう"
+        ]
+    },
+    "じゅうりょく": {
+        "display_name": "じゅうりょく",
+        "retrieval_names": [
+            "じゅうりょく"
+        ]
+    },
+    "クロスサンダー/フレイム強化": {
+        "display_name": "クロスサンダー/フレイム強化",
+        "retrieval_names": [
+            "クロスサンダー/フレイムきょうか"
+        ]
+    },
+    "エラがみ強化": {
+        "display_name": "エラがみ強化",
+        "retrieval_names": [
+            "エラがみきょうか"
+        ]
+    },
+    "でんげきくちばし強化": {
+        "display_name": "でんげきくちばし強化",
+        "retrieval_names": [
+            "でんげきくちばしきょうか"
+        ]
+    },
+    "ダメおし強化": {
+        "display_name": "ダメおし強化",
+        "retrieval_names": [
+            "ダメおしきょうか"
+        ]
+    },
+    "スロースタート中": {
+        "display_name": "スロースタート中",
+        "retrieval_names": [
+            "スロースタートちゅう"
+        ]
+    },
+    "よわきHP半分以下": {
+        "display_name": "よわきHP半分以下",
+        "retrieval_names": [
+            "よわきHPはんぶんいか"
+        ]
+    },
+    "しんりょく発動": {
+        "display_name": "しんりょく発動",
+        "retrieval_names": [
+            "しんりょくはつどう"
+        ]
+    },
+    "もうか発動": {
+        "display_name": "もうか発動",
+        "retrieval_names": [
+            "もうかはつどう"
+        ]
+    },
+    "げきりゅう発動": {
+        "display_name": "げきりゅう発動",
+        "retrieval_names": [
+            "げきりゅうはつどう"
+        ]
+    },
+    "むしのしらせ発動": {
+        "display_name": "むしのしらせ発動",
+        "retrieval_names": [
+            "むしのしらせはつどう"
+        ]
+    },
+    "もらいび発動": {
+        "display_name": "もらいび発動",
+        "retrieval_names": [
+            "もらいびはつどう"
+        ]
+    },
+    "はりこみ発動": {
+        "display_name": "はりこみ発動",
+        "retrieval_names": [
+            "はりこみはつどう"
+        ]
+    },
+    "ふしぎなうろこ発動": {
+        "display_name": "ふしぎなうろこ発動",
+        "retrieval_names": [
+            "ふしぎなうろこはつどう"
+        ]
+    },
+    "メトロノーム2発目": {
+        "display_name": "メトロノーム2発目",
+        "retrieval_names": [
+            "メトロノーム2はつめ"
+        ]
+    },
+    "メトロノーム3発目": {
+        "display_name": "メトロノーム3発目",
+        "retrieval_names": [
+            "メトロノーム3はつめ"
+        ]
+    },
+    "メトロノーム4発目": {
+        "display_name": "メトロノーム4発目",
+        "retrieval_names": [
+            "メトロノーム4はつめ"
+        ]
+    },
+    "メトロノーム5発目": {
+        "display_name": "メトロノーム5発目",
+        "retrieval_names": [
+            "メトロノーム5はつめ"
+        ]
+    },
+    "メトロノーム6発目": {
+        "display_name": "メトロノーム6発目",
+        "retrieval_names": [
+            "メトロノーム6はつめ"
+        ]
+    },
+    "たたりめ強化": {
+        "display_name": "たたりめ強化",
+        "retrieval_names": [
+            "たたりめきょうか"
+        ]
+    },
+    "ひゃっきやこう強化": {
+        "display_name": "ひゃっきやこう強化",
+        "retrieval_names": [
+            "ひゃっきやこうきょうか"
+        ]
+    },
+}

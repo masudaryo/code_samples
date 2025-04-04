@@ -1,0 +1,2758 @@
+[
+    {
+        "id": 1,
+        "name": "stench",
+        "jp_name": {
+            "name": "あくしゅう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 2,
+        "name": "drizzle",
+        "jp_name": {
+            "name": "あめふらし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 3,
+        "name": "speed-boost",
+        "jp_name": {
+            "name": "かそく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 4,
+        "name": "battle-armor",
+        "jp_name": {
+            "name": "カブトアーマー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 5,
+        "name": "sturdy",
+        "jp_name": {
+            "name": "がんじょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 6,
+        "name": "damp",
+        "jp_name": {
+            "name": "しめりけ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 7,
+        "name": "limber",
+        "jp_name": {
+            "name": "じゅうなん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "jp_name": {
+            "name": "すながくれ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 9,
+        "name": "static",
+        "jp_name": {
+            "name": "せいでんき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 10,
+        "name": "volt-absorb",
+        "jp_name": {
+            "name": "ちくでん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "jp_name": {
+            "name": "ちょすい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 12,
+        "name": "oblivious",
+        "jp_name": {
+            "name": "どんかん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 13,
+        "name": "cloud-nine",
+        "jp_name": {
+            "name": "ノーてんき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 14,
+        "name": "compound-eyes",
+        "jp_name": {
+            "name": "ふくがん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 15,
+        "name": "insomnia",
+        "jp_name": {
+            "name": "ふみん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 16,
+        "name": "color-change",
+        "jp_name": {
+            "name": "へんしょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 17,
+        "name": "immunity",
+        "jp_name": {
+            "name": "めんえき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 18,
+        "name": "flash-fire",
+        "jp_name": {
+            "name": "もらいび",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 19,
+        "name": "shield-dust",
+        "jp_name": {
+            "name": "りんぷん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "jp_name": {
+            "name": "マイペース",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 21,
+        "name": "suction-cups",
+        "jp_name": {
+            "name": "きゅうばん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 22,
+        "name": "intimidate",
+        "jp_name": {
+            "name": "いかく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 23,
+        "name": "shadow-tag",
+        "jp_name": {
+            "name": "かげふみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 24,
+        "name": "rough-skin",
+        "jp_name": {
+            "name": "さめはだ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 25,
+        "name": "wonder-guard",
+        "jp_name": {
+            "name": "ふしぎなまもり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 26,
+        "name": "levitate",
+        "jp_name": {
+            "name": "ふゆう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 27,
+        "name": "effect-spore",
+        "jp_name": {
+            "name": "ほうし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 28,
+        "name": "synchronize",
+        "jp_name": {
+            "name": "シンクロ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 29,
+        "name": "clear-body",
+        "jp_name": {
+            "name": "クリアボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "jp_name": {
+            "name": "しぜんかいふく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 31,
+        "name": "lightning-rod",
+        "jp_name": {
+            "name": "ひらいしん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 32,
+        "name": "serene-grace",
+        "jp_name": {
+            "name": "てんのめぐみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "jp_name": {
+            "name": "すいすい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "jp_name": {
+            "name": "ようりょくそ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 35,
+        "name": "illuminate",
+        "jp_name": {
+            "name": "はっこう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 36,
+        "name": "trace",
+        "jp_name": {
+            "name": "トレース",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 37,
+        "name": "huge-power",
+        "jp_name": {
+            "name": "ちからもち",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 38,
+        "name": "poison-point",
+        "jp_name": {
+            "name": "どくのトゲ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "jp_name": {
+            "name": "せいしんりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 40,
+        "name": "magma-armor",
+        "jp_name": {
+            "name": "マグマのよろい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 41,
+        "name": "water-veil",
+        "jp_name": {
+            "name": "みずのベール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 42,
+        "name": "magnet-pull",
+        "jp_name": {
+            "name": "じりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 43,
+        "name": "soundproof",
+        "jp_name": {
+            "name": "ぼうおん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 44,
+        "name": "rain-dish",
+        "jp_name": {
+            "name": "あめうけざら",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 45,
+        "name": "sand-stream",
+        "jp_name": {
+            "name": "すなおこし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 46,
+        "name": "pressure",
+        "jp_name": {
+            "name": "プレッシャー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "jp_name": {
+            "name": "あついしぼう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 48,
+        "name": "early-bird",
+        "jp_name": {
+            "name": "はやおき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 49,
+        "name": "flame-body",
+        "jp_name": {
+            "name": "ほのおのからだ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "jp_name": {
+            "name": "にげあし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "jp_name": {
+            "name": "するどいめ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 52,
+        "name": "hyper-cutter",
+        "jp_name": {
+            "name": "かいりきバサミ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 53,
+        "name": "pickup",
+        "jp_name": {
+            "name": "ものひろい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 54,
+        "name": "truant",
+        "jp_name": {
+            "name": "なまけ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 55,
+        "name": "hustle",
+        "jp_name": {
+            "name": "はりきり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 56,
+        "name": "cute-charm",
+        "jp_name": {
+            "name": "メロメロボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 57,
+        "name": "plus",
+        "jp_name": {
+            "name": "プラス",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 58,
+        "name": "minus",
+        "jp_name": {
+            "name": "マイナス",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 59,
+        "name": "forecast",
+        "jp_name": {
+            "name": "てんきや",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 60,
+        "name": "sticky-hold",
+        "jp_name": {
+            "name": "ねんちゃく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 61,
+        "name": "shed-skin",
+        "jp_name": {
+            "name": "だっぴ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "jp_name": {
+            "name": "こんじょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 63,
+        "name": "marvel-scale",
+        "jp_name": {
+            "name": "ふしぎなうろこ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 64,
+        "name": "liquid-ooze",
+        "jp_name": {
+            "name": "ヘドロえき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 65,
+        "name": "overgrow",
+        "jp_name": {
+            "name": "しんりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 66,
+        "name": "blaze",
+        "jp_name": {
+            "name": "もうか",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 67,
+        "name": "torrent",
+        "jp_name": {
+            "name": "げきりゅう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 68,
+        "name": "swarm",
+        "jp_name": {
+            "name": "むしのしらせ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 69,
+        "name": "rock-head",
+        "jp_name": {
+            "name": "いしあたま",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 70,
+        "name": "drought",
+        "jp_name": {
+            "name": "ひでり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 71,
+        "name": "arena-trap",
+        "jp_name": {
+            "name": "ありじごく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 72,
+        "name": "vital-spirit",
+        "jp_name": {
+            "name": "やるき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 73,
+        "name": "white-smoke",
+        "jp_name": {
+            "name": "しろいけむり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 74,
+        "name": "pure-power",
+        "jp_name": {
+            "name": "ヨガパワー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 75,
+        "name": "shell-armor",
+        "jp_name": {
+            "name": "シェルアーマー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 76,
+        "name": "air-lock",
+        "jp_name": {
+            "name": "エアロック",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 77,
+        "name": "tangled-feet",
+        "jp_name": {
+            "name": "ちどりあし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 78,
+        "name": "motor-drive",
+        "jp_name": {
+            "name": "でんきエンジン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 79,
+        "name": "rivalry",
+        "jp_name": {
+            "name": "とうそうしん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 80,
+        "name": "steadfast",
+        "jp_name": {
+            "name": "ふくつのこころ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 81,
+        "name": "snow-cloak",
+        "jp_name": {
+            "name": "ゆきがくれ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 82,
+        "name": "gluttony",
+        "jp_name": {
+            "name": "くいしんぼう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 83,
+        "name": "anger-point",
+        "jp_name": {
+            "name": "いかりのつぼ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 84,
+        "name": "unburden",
+        "jp_name": {
+            "name": "かるわざ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 85,
+        "name": "heatproof",
+        "jp_name": {
+            "name": "たいねつ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 86,
+        "name": "simple",
+        "jp_name": {
+            "name": "たんじゅん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 87,
+        "name": "dry-skin",
+        "jp_name": {
+            "name": "かんそうはだ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 88,
+        "name": "download",
+        "jp_name": {
+            "name": "ダウンロード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 89,
+        "name": "iron-fist",
+        "jp_name": {
+            "name": "てつのこぶし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 90,
+        "name": "poison-heal",
+        "jp_name": {
+            "name": "ポイズンヒール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 91,
+        "name": "adaptability",
+        "jp_name": {
+            "name": "てきおうりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 92,
+        "name": "skill-link",
+        "jp_name": {
+            "name": "スキルリンク",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "jp_name": {
+            "name": "うるおいボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 94,
+        "name": "solar-power",
+        "jp_name": {
+            "name": "サンパワー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 95,
+        "name": "quick-feet",
+        "jp_name": {
+            "name": "はやあし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 96,
+        "name": "normalize",
+        "jp_name": {
+            "name": "ノーマルスキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 97,
+        "name": "sniper",
+        "jp_name": {
+            "name": "スナイパー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 98,
+        "name": "magic-guard",
+        "jp_name": {
+            "name": "マジックガード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 99,
+        "name": "no-guard",
+        "jp_name": {
+            "name": "ノーガード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 100,
+        "name": "stall",
+        "jp_name": {
+            "name": "あとだし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 101,
+        "name": "technician",
+        "jp_name": {
+            "name": "テクニシャン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 102,
+        "name": "leaf-guard",
+        "jp_name": {
+            "name": "リーフガード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 103,
+        "name": "klutz",
+        "jp_name": {
+            "name": "ぶきよう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 104,
+        "name": "mold-breaker",
+        "jp_name": {
+            "name": "かたやぶり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 105,
+        "name": "super-luck",
+        "jp_name": {
+            "name": "きょううん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 106,
+        "name": "aftermath",
+        "jp_name": {
+            "name": "ゆうばく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 107,
+        "name": "anticipation",
+        "jp_name": {
+            "name": "きけんよち",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 108,
+        "name": "forewarn",
+        "jp_name": {
+            "name": "よちむ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 109,
+        "name": "unaware",
+        "jp_name": {
+            "name": "てんねん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 110,
+        "name": "tinted-lens",
+        "jp_name": {
+            "name": "いろめがね",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 111,
+        "name": "filter",
+        "jp_name": {
+            "name": "フィルター",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 112,
+        "name": "slow-start",
+        "jp_name": {
+            "name": "スロースタート",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 113,
+        "name": "scrappy",
+        "jp_name": {
+            "name": "きもったま",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 114,
+        "name": "storm-drain",
+        "jp_name": {
+            "name": "よびみず",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 115,
+        "name": "ice-body",
+        "jp_name": {
+            "name": "アイスボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 116,
+        "name": "solid-rock",
+        "jp_name": {
+            "name": "ハードロック",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 117,
+        "name": "snow-warning",
+        "jp_name": {
+            "name": "ゆきふらし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 118,
+        "name": "honey-gather",
+        "jp_name": {
+            "name": "みつあつめ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 119,
+        "name": "frisk",
+        "jp_name": {
+            "name": "おみとおし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 120,
+        "name": "reckless",
+        "jp_name": {
+            "name": "すてみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 121,
+        "name": "multitype",
+        "jp_name": {
+            "name": "マルチタイプ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 122,
+        "name": "flower-gift",
+        "jp_name": {
+            "name": "フラワーギフト",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 123,
+        "name": "bad-dreams",
+        "jp_name": {
+            "name": "ナイトメア",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 124,
+        "name": "pickpocket",
+        "jp_name": {
+            "name": "わるいてぐせ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 125,
+        "name": "sheer-force",
+        "jp_name": {
+            "name": "ちからずく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 126,
+        "name": "contrary",
+        "jp_name": {
+            "name": "あまのじゃく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 127,
+        "name": "unnerve",
+        "jp_name": {
+            "name": "きんちょうかん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 128,
+        "name": "defiant",
+        "jp_name": {
+            "name": "まけんき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 129,
+        "name": "defeatist",
+        "jp_name": {
+            "name": "よわき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 130,
+        "name": "cursed-body",
+        "jp_name": {
+            "name": "のろわれボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 131,
+        "name": "healer",
+        "jp_name": {
+            "name": "いやしのこころ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 132,
+        "name": "friend-guard",
+        "jp_name": {
+            "name": "フレンドガード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "jp_name": {
+            "name": "くだけるよろい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 134,
+        "name": "heavy-metal",
+        "jp_name": {
+            "name": "ヘヴィメタル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 135,
+        "name": "light-metal",
+        "jp_name": {
+            "name": "ライトメタル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 136,
+        "name": "multiscale",
+        "jp_name": {
+            "name": "マルチスケイル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 137,
+        "name": "toxic-boost",
+        "jp_name": {
+            "name": "どくぼうそう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 138,
+        "name": "flare-boost",
+        "jp_name": {
+            "name": "ねつぼうそう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 139,
+        "name": "harvest",
+        "jp_name": {
+            "name": "しゅうかく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 140,
+        "name": "telepathy",
+        "jp_name": {
+            "name": "テレパシー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 141,
+        "name": "moody",
+        "jp_name": {
+            "name": "ムラっけ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 142,
+        "name": "overcoat",
+        "jp_name": {
+            "name": "ぼうじん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 143,
+        "name": "poison-touch",
+        "jp_name": {
+            "name": "どくしゅ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 144,
+        "name": "regenerator",
+        "jp_name": {
+            "name": "さいせいりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 145,
+        "name": "big-pecks",
+        "jp_name": {
+            "name": "はとむね",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 146,
+        "name": "sand-rush",
+        "jp_name": {
+            "name": "すなかき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 147,
+        "name": "wonder-skin",
+        "jp_name": {
+            "name": "ミラクルスキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 148,
+        "name": "analytic",
+        "jp_name": {
+            "name": "アナライズ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 149,
+        "name": "illusion",
+        "jp_name": {
+            "name": "イリュージョン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 150,
+        "name": "imposter",
+        "jp_name": {
+            "name": "かわりもの",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 151,
+        "name": "infiltrator",
+        "jp_name": {
+            "name": "すりぬけ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 152,
+        "name": "mummy",
+        "jp_name": {
+            "name": "ミイラ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 153,
+        "name": "moxie",
+        "jp_name": {
+            "name": "じしんかじょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 154,
+        "name": "justified",
+        "jp_name": {
+            "name": "せいぎのこころ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 155,
+        "name": "rattled",
+        "jp_name": {
+            "name": "びびり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 156,
+        "name": "magic-bounce",
+        "jp_name": {
+            "name": "マジックミラー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "jp_name": {
+            "name": "そうしょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 158,
+        "name": "prankster",
+        "jp_name": {
+            "name": "いたずらごころ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 159,
+        "name": "sand-force",
+        "jp_name": {
+            "name": "すなのちから",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 160,
+        "name": "iron-barbs",
+        "jp_name": {
+            "name": "てつのトゲ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 161,
+        "name": "zen-mode",
+        "jp_name": {
+            "name": "ダルマモード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 162,
+        "name": "victory-star",
+        "jp_name": {
+            "name": "しょうりのほし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 163,
+        "name": "turboblaze",
+        "jp_name": {
+            "name": "ターボブレイズ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 164,
+        "name": "teravolt",
+        "jp_name": {
+            "name": "テラボルテージ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 165,
+        "name": "aroma-veil",
+        "jp_name": {
+            "name": "アロマベール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 166,
+        "name": "flower-veil",
+        "jp_name": {
+            "name": "フラワーベール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 167,
+        "name": "cheek-pouch",
+        "jp_name": {
+            "name": "ほおぶくろ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 168,
+        "name": "protean",
+        "jp_name": {
+            "name": "へんげんじざい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 169,
+        "name": "fur-coat",
+        "jp_name": {
+            "name": "ファーコート",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 170,
+        "name": "magician",
+        "jp_name": {
+            "name": "マジシャン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 171,
+        "name": "bulletproof",
+        "jp_name": {
+            "name": "ぼうだん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 172,
+        "name": "competitive",
+        "jp_name": {
+            "name": "かちき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 173,
+        "name": "strong-jaw",
+        "jp_name": {
+            "name": "がんじょうあご",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 174,
+        "name": "refrigerate",
+        "jp_name": {
+            "name": "フリーズスキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 175,
+        "name": "sweet-veil",
+        "jp_name": {
+            "name": "スイートベール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 176,
+        "name": "stance-change",
+        "jp_name": {
+            "name": "バトルスイッチ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 177,
+        "name": "gale-wings",
+        "jp_name": {
+            "name": "はやてのつばさ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 178,
+        "name": "mega-launcher",
+        "jp_name": {
+            "name": "メガランチャー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 179,
+        "name": "grass-pelt",
+        "jp_name": {
+            "name": "くさのけがわ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 180,
+        "name": "symbiosis",
+        "jp_name": {
+            "name": "きょうせい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 181,
+        "name": "tough-claws",
+        "jp_name": {
+            "name": "かたいツメ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 182,
+        "name": "pixilate",
+        "jp_name": {
+            "name": "フェアリースキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 183,
+        "name": "gooey",
+        "jp_name": {
+            "name": "ぬめぬめ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 184,
+        "name": "aerilate",
+        "jp_name": {
+            "name": "スカイスキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 185,
+        "name": "parental-bond",
+        "jp_name": {
+            "name": "おやこあい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 186,
+        "name": "dark-aura",
+        "jp_name": {
+            "name": "ダークオーラ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 187,
+        "name": "fairy-aura",
+        "jp_name": {
+            "name": "フェアリーオーラ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 188,
+        "name": "aura-break",
+        "jp_name": {
+            "name": "オーラブレイク",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 189,
+        "name": "primordial-sea",
+        "jp_name": {
+            "name": "はじまりのうみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 190,
+        "name": "desolate-land",
+        "jp_name": {
+            "name": "おわりのだいち",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 191,
+        "name": "delta-stream",
+        "jp_name": {
+            "name": "デルタストリーム",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 192,
+        "name": "stamina",
+        "jp_name": {
+            "name": "じきゅうりょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 193,
+        "name": "wimp-out",
+        "jp_name": {
+            "name": "にげごし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 194,
+        "name": "emergency-exit",
+        "jp_name": {
+            "name": "ききかいひ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 195,
+        "name": "water-compaction",
+        "jp_name": {
+            "name": "みずがため",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 196,
+        "name": "merciless",
+        "jp_name": {
+            "name": "ひとでなし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 197,
+        "name": "shields-down",
+        "jp_name": {
+            "name": "リミットシールド",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 198,
+        "name": "stakeout",
+        "jp_name": {
+            "name": "はりこみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 199,
+        "name": "water-bubble",
+        "jp_name": {
+            "name": "すいほう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 200,
+        "name": "steelworker",
+        "jp_name": {
+            "name": "はがねつかい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 201,
+        "name": "berserk",
+        "jp_name": {
+            "name": "ぎゃくじょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 202,
+        "name": "slush-rush",
+        "jp_name": {
+            "name": "ゆきかき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 203,
+        "name": "long-reach",
+        "jp_name": {
+            "name": "えんかく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 204,
+        "name": "liquid-voice",
+        "jp_name": {
+            "name": "うるおいボイス",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 205,
+        "name": "triage",
+        "jp_name": {
+            "name": "ヒーリングシフト",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 206,
+        "name": "galvanize",
+        "jp_name": {
+            "name": "エレキスキン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 207,
+        "name": "surge-surfer",
+        "jp_name": {
+            "name": "サーフテール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 208,
+        "name": "schooling",
+        "jp_name": {
+            "name": "ぎょぐん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 209,
+        "name": "disguise",
+        "jp_name": {
+            "name": "ばけのかわ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 210,
+        "name": "battle-bond",
+        "jp_name": {
+            "name": "きずなへんげ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 211,
+        "name": "power-construct",
+        "jp_name": {
+            "name": "スワームチェンジ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 212,
+        "name": "corrosion",
+        "jp_name": {
+            "name": "ふしょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 213,
+        "name": "comatose",
+        "jp_name": {
+            "name": "ぜったいねむり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 214,
+        "name": "queenly-majesty",
+        "jp_name": {
+            "name": "じょおうのいげん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 215,
+        "name": "innards-out",
+        "jp_name": {
+            "name": "とびだすなかみ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 216,
+        "name": "dancer",
+        "jp_name": {
+            "name": "おどりこ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 217,
+        "name": "battery",
+        "jp_name": {
+            "name": "バッテリー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 218,
+        "name": "fluffy",
+        "jp_name": {
+            "name": "もふもふ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 219,
+        "name": "dazzling",
+        "jp_name": {
+            "name": "ビビッドボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 220,
+        "name": "soul-heart",
+        "jp_name": {
+            "name": "ソウルハート",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 221,
+        "name": "tangling-hair",
+        "jp_name": {
+            "name": "カーリーヘアー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 222,
+        "name": "receiver",
+        "jp_name": {
+            "name": "レシーバー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 223,
+        "name": "power-of-alchemy",
+        "jp_name": {
+            "name": "かがくのちから",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 224,
+        "name": "beast-boost",
+        "jp_name": {
+            "name": "ビーストブースト",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 225,
+        "name": "rks-system",
+        "jp_name": {
+            "name": "ＡＲシステム",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 226,
+        "name": "electric-surge",
+        "jp_name": {
+            "name": "エレキメイカー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 227,
+        "name": "psychic-surge",
+        "jp_name": {
+            "name": "サイコメイカー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 228,
+        "name": "misty-surge",
+        "jp_name": {
+            "name": "ミストメイカー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 229,
+        "name": "grassy-surge",
+        "jp_name": {
+            "name": "グラスメイカー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 230,
+        "name": "full-metal-body",
+        "jp_name": {
+            "name": "メタルプロテクト",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 231,
+        "name": "shadow-shield",
+        "jp_name": {
+            "name": "ファントムガード",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 232,
+        "name": "prism-armor",
+        "jp_name": {
+            "name": "プリズムアーマー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 233,
+        "name": "neuroforce",
+        "jp_name": {
+            "name": "ブレインフォース",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 234,
+        "name": "intrepid-sword",
+        "jp_name": {
+            "name": "ふとうのけん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 235,
+        "name": "dauntless-shield",
+        "jp_name": {
+            "name": "ふくつのたて",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 236,
+        "name": "libero",
+        "jp_name": {
+            "name": "リベロ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 237,
+        "name": "ball-fetch",
+        "jp_name": {
+            "name": "たまひろい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 238,
+        "name": "cotton-down",
+        "jp_name": {
+            "name": "わたげ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 239,
+        "name": "propeller-tail",
+        "jp_name": {
+            "name": "スクリューおびれ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 240,
+        "name": "mirror-armor",
+        "jp_name": {
+            "name": "ミラーアーマー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 241,
+        "name": "gulp-missile",
+        "jp_name": {
+            "name": "うのミサイル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 242,
+        "name": "stalwart",
+        "jp_name": {
+            "name": "すじがねいり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 243,
+        "name": "steam-engine",
+        "jp_name": {
+            "name": "じょうききかん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 244,
+        "name": "punk-rock",
+        "jp_name": {
+            "name": "パンクロック",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 245,
+        "name": "sand-spit",
+        "jp_name": {
+            "name": "すなはき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 246,
+        "name": "ice-scales",
+        "jp_name": {
+            "name": "こおりのりんぷん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 247,
+        "name": "ripen",
+        "jp_name": {
+            "name": "じゅくせい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 248,
+        "name": "ice-face",
+        "jp_name": {
+            "name": "アイスフェイス",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 249,
+        "name": "power-spot",
+        "jp_name": {
+            "name": "パワースポット",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 250,
+        "name": "mimicry",
+        "jp_name": {
+            "name": "ぎたい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 251,
+        "name": "screen-cleaner",
+        "jp_name": {
+            "name": "バリアフリー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 252,
+        "name": "steely-spirit",
+        "jp_name": {
+            "name": "はがねのせいしん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 253,
+        "name": "perish-body",
+        "jp_name": {
+            "name": "ほろびのボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 254,
+        "name": "wandering-spirit",
+        "jp_name": {
+            "name": "さまようたましい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 255,
+        "name": "gorilla-tactics",
+        "jp_name": {
+            "name": "ごりむちゅう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 256,
+        "name": "neutralizing-gas",
+        "jp_name": {
+            "name": "かがくへんかガス",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 257,
+        "name": "pastel-veil",
+        "jp_name": {
+            "name": "パステルベール",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 258,
+        "name": "hunger-switch",
+        "jp_name": {
+            "name": "はらぺこスイッチ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 259,
+        "name": "quick-draw",
+        "jp_name": {
+            "name": "クイックドロウ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 260,
+        "name": "unseen-fist",
+        "jp_name": {
+            "name": "ふかしのこぶし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 261,
+        "name": "curious-medicine",
+        "jp_name": {
+            "name": "きみょうなくすり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 262,
+        "name": "transistor",
+        "jp_name": {
+            "name": "トランジスタ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 263,
+        "name": "dragons-maw",
+        "jp_name": {
+            "name": "りゅうのあぎと",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 264,
+        "name": "chilling-neigh",
+        "jp_name": {
+            "name": "しろのいななき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 265,
+        "name": "grim-neigh",
+        "jp_name": {
+            "name": "くろのいななき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 266,
+        "name": "as-one-glastrier",
+        "jp_name": {
+            "name": "じんばいったい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 267,
+        "name": "as-one-spectrier",
+        "jp_name": {
+            "name": "じんばいったい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 268,
+        "name": "lingering-aroma",
+        "jp_name": {
+            "name": "とれないにおい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 269,
+        "name": "seed-sower",
+        "jp_name": {
+            "name": "こぼれダネ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 270,
+        "name": "thermal-exchange",
+        "jp_name": {
+            "name": "ねつこうかん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 271,
+        "name": "anger-shell",
+        "jp_name": {
+            "name": "いかりのこうら",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 272,
+        "name": "purifying-salt",
+        "jp_name": {
+            "name": "きよめのしお",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 273,
+        "name": "well-baked-body",
+        "jp_name": {
+            "name": "こんがりボディ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 274,
+        "name": "wind-rider",
+        "jp_name": {
+            "name": "かぜのり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 275,
+        "name": "guard-dog",
+        "jp_name": {
+            "name": "ばんけん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 276,
+        "name": "rocky-payload",
+        "jp_name": {
+            "name": "いわはこび",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 277,
+        "name": "wind-power",
+        "jp_name": {
+            "name": "ふうりょくでんき",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 278,
+        "name": "zero-to-hero",
+        "jp_name": {
+            "name": "マイティチェンジ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 279,
+        "name": "commander",
+        "jp_name": {
+            "name": "しれいとう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 280,
+        "name": "electromorphosis",
+        "jp_name": {
+            "name": "でんきにかえる",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 281,
+        "name": "protosynthesis",
+        "jp_name": {
+            "name": "こだいかっせい",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 282,
+        "name": "quark-drive",
+        "jp_name": {
+            "name": "クォークチャージ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 283,
+        "name": "good-as-gold",
+        "jp_name": {
+            "name": "おうごんのからだ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 284,
+        "name": "vessel-of-ruin",
+        "jp_name": {
+            "name": "わざわいのうつわ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 285,
+        "name": "sword-of-ruin",
+        "jp_name": {
+            "name": "わざわいのつるぎ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 286,
+        "name": "tablets-of-ruin",
+        "jp_name": {
+            "name": "わざわいのおふだ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 287,
+        "name": "beads-of-ruin",
+        "jp_name": {
+            "name": "わざわいのたま",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 288,
+        "name": "orichalcum-pulse",
+        "jp_name": {
+            "name": "ひひいろのこどう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 289,
+        "name": "hadron-engine",
+        "jp_name": {
+            "name": "ハドロンエンジン",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 290,
+        "name": "opportunist",
+        "jp_name": {
+            "name": "びんじょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 291,
+        "name": "cud-chew",
+        "jp_name": {
+            "name": "はんすう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 292,
+        "name": "sharpness",
+        "jp_name": {
+            "name": "きれあじ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 293,
+        "name": "supreme-overlord",
+        "jp_name": {
+            "name": "そうだいしょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 294,
+        "name": "costar",
+        "jp_name": {
+            "name": "きょうえん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 295,
+        "name": "toxic-debris",
+        "jp_name": {
+            "name": "どくげしょう",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 296,
+        "name": "armor-tail",
+        "jp_name": {
+            "name": "テイルアーマー",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 297,
+        "name": "earth-eater",
+        "jp_name": {
+            "name": "どしょく",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 298,
+        "name": "mycelium-might",
+        "jp_name": {
+            "name": "きんしのちから",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 299,
+        "name": "minds-eye",
+        "jp_name": {
+            "name": "しんがん",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 300,
+        "name": "supersweet-syrup",
+        "jp_name": {
+            "name": "かんろなミツ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 301,
+        "name": "hospitality",
+        "jp_name": {
+            "name": "おもてなし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 302,
+        "name": "toxic-chain",
+        "jp_name": {
+            "name": "どくのくさり",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 303,
+        "name": "embody-aspect",
+        "jp_name": {
+            "name": "おもかげやどし",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 304,
+        "name": "tera-shift",
+        "jp_name": {
+            "name": "テラスチェンジ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 305,
+        "name": "tera-shell",
+        "jp_name": {
+            "name": "テラスシェル",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 306,
+        "name": "teraform-zero",
+        "jp_name": {
+            "name": "ゼロフォーミング",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 307,
+        "name": "poison-puppeteer",
+        "jp_name": {
+            "name": "どくくぐつ",
+            "language": "ja-Hrkt"
+        }
+    },
+    {
+        "id": 10001,
+        "name": "mountaineer",
+        "jp_name": null
+    },
+    {
+        "id": 10002,
+        "name": "wave-rider",
+        "jp_name": null
+    },
+    {
+        "id": 10003,
+        "name": "skater",
+        "jp_name": null
+    },
+    {
+        "id": 10004,
+        "name": "thrust",
+        "jp_name": null
+    },
+    {
+        "id": 10005,
+        "name": "perception",
+        "jp_name": null
+    },
+    {
+        "id": 10006,
+        "name": "parry",
+        "jp_name": null
+    },
+    {
+        "id": 10007,
+        "name": "instinct",
+        "jp_name": null
+    },
+    {
+        "id": 10008,
+        "name": "dodge",
+        "jp_name": null
+    },
+    {
+        "id": 10009,
+        "name": "jagged-edge",
+        "jp_name": null
+    },
+    {
+        "id": 10010,
+        "name": "frostbite",
+        "jp_name": null
+    },
+    {
+        "id": 10011,
+        "name": "tenacity",
+        "jp_name": null
+    },
+    {
+        "id": 10012,
+        "name": "pride",
+        "jp_name": null
+    },
+    {
+        "id": 10013,
+        "name": "deep-sleep",
+        "jp_name": null
+    },
+    {
+        "id": 10014,
+        "name": "power-nap",
+        "jp_name": null
+    },
+    {
+        "id": 10015,
+        "name": "spirit",
+        "jp_name": null
+    },
+    {
+        "id": 10016,
+        "name": "warm-blanket",
+        "jp_name": null
+    },
+    {
+        "id": 10017,
+        "name": "gulp",
+        "jp_name": null
+    },
+    {
+        "id": 10018,
+        "name": "herbivore",
+        "jp_name": null
+    },
+    {
+        "id": 10019,
+        "name": "sandpit",
+        "jp_name": null
+    },
+    {
+        "id": 10020,
+        "name": "hot-blooded",
+        "jp_name": null
+    },
+    {
+        "id": 10021,
+        "name": "medic",
+        "jp_name": null
+    },
+    {
+        "id": 10022,
+        "name": "life-force",
+        "jp_name": null
+    },
+    {
+        "id": 10023,
+        "name": "lunchbox",
+        "jp_name": null
+    },
+    {
+        "id": 10024,
+        "name": "nurse",
+        "jp_name": null
+    },
+    {
+        "id": 10025,
+        "name": "melee",
+        "jp_name": null
+    },
+    {
+        "id": 10026,
+        "name": "sponge",
+        "jp_name": null
+    },
+    {
+        "id": 10027,
+        "name": "bodyguard",
+        "jp_name": null
+    },
+    {
+        "id": 10028,
+        "name": "hero",
+        "jp_name": null
+    },
+    {
+        "id": 10029,
+        "name": "last-bastion",
+        "jp_name": null
+    },
+    {
+        "id": 10030,
+        "name": "stealth",
+        "jp_name": null
+    },
+    {
+        "id": 10031,
+        "name": "vanguard",
+        "jp_name": null
+    },
+    {
+        "id": 10032,
+        "name": "nomad",
+        "jp_name": null
+    },
+    {
+        "id": 10033,
+        "name": "sequence",
+        "jp_name": null
+    },
+    {
+        "id": 10034,
+        "name": "grass-cloak",
+        "jp_name": null
+    },
+    {
+        "id": 10035,
+        "name": "celebrate",
+        "jp_name": null
+    },
+    {
+        "id": 10036,
+        "name": "lullaby",
+        "jp_name": null
+    },
+    {
+        "id": 10037,
+        "name": "calming",
+        "jp_name": null
+    },
+    {
+        "id": 10038,
+        "name": "daze",
+        "jp_name": null
+    },
+    {
+        "id": 10039,
+        "name": "frighten",
+        "jp_name": null
+    },
+    {
+        "id": 10040,
+        "name": "interference",
+        "jp_name": null
+    },
+    {
+        "id": 10041,
+        "name": "mood-maker",
+        "jp_name": null
+    },
+    {
+        "id": 10042,
+        "name": "confidence",
+        "jp_name": null
+    },
+    {
+        "id": 10043,
+        "name": "fortune",
+        "jp_name": null
+    },
+    {
+        "id": 10044,
+        "name": "bonanza",
+        "jp_name": null
+    },
+    {
+        "id": 10045,
+        "name": "explode",
+        "jp_name": null
+    },
+    {
+        "id": 10046,
+        "name": "omnipotent",
+        "jp_name": null
+    },
+    {
+        "id": 10047,
+        "name": "share",
+        "jp_name": null
+    },
+    {
+        "id": 10048,
+        "name": "black-hole",
+        "jp_name": null
+    },
+    {
+        "id": 10049,
+        "name": "shadow-dash",
+        "jp_name": null
+    },
+    {
+        "id": 10050,
+        "name": "sprint",
+        "jp_name": null
+    },
+    {
+        "id": 10051,
+        "name": "disgust",
+        "jp_name": null
+    },
+    {
+        "id": 10052,
+        "name": "high-rise",
+        "jp_name": null
+    },
+    {
+        "id": 10053,
+        "name": "climber",
+        "jp_name": null
+    },
+    {
+        "id": 10054,
+        "name": "flame-boost",
+        "jp_name": null
+    },
+    {
+        "id": 10055,
+        "name": "aqua-boost",
+        "jp_name": null
+    },
+    {
+        "id": 10056,
+        "name": "run-up",
+        "jp_name": null
+    },
+    {
+        "id": 10057,
+        "name": "conqueror",
+        "jp_name": null
+    },
+    {
+        "id": 10058,
+        "name": "shackle",
+        "jp_name": null
+    },
+    {
+        "id": 10059,
+        "name": "decoy",
+        "jp_name": null
+    },
+    {
+        "id": 10060,
+        "name": "shield",
+        "jp_name": null
+    }
+]
