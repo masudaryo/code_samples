@@ -1,0 +1,7 @@
+/.vscode/
+__pycache__/
+/dist/
+/build/
+/MyIdentityPackage.msix
+/my_notification.spec
+/notification_data.json

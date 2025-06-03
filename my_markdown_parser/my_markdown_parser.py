@@ -7,7 +7,6 @@ import os
 from os import PathLike
 import os.path
 from abc import ABC, abstractmethod
-import platform
 import argparse
 from pathlib import Path
 from collections.abc import Generator
